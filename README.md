@@ -1,4 +1,4 @@
-# Documentation for the PlayStation Portable Archive.
+Documentation for the PlayStation Portable Archive.
 
 # Table of Contents
 
