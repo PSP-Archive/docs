@@ -36,6 +36,6 @@ To add new homebrews to the PSP collection:
 
 Inside those files there will be  a lot a trash data or duplicates, here are what you will need to MARK AS TRASH:	
 	
-a. PC Emulators, this includes PPSSPP builds or jpcsp builds, DO NOT DELETE EMULATORS THAT WERE MEANT TO RUN ON PSP HARDWARE!	
-b. Wallpapers, some people uploaded wallpapers as a zip, these should be deleted	
-c. Duplicates, if you found the EXACT SAME VERSION of a piece of homebrew,DO NOT MARK  AS TRASH DIFFERENT VERSIONS OF THE SAME HOMEBREW, use your judgement and mark duplicates that are in the worst condition, for example if one is missing a readme and the other is not.
+1. PC Emulators, this includes PPSSPP builds or jpcsp builds, DO NOT DELETE EMULATORS THAT WERE MEANT TO RUN ON PSP HARDWARE!	
+2. Wallpapers, some people uploaded wallpapers as a zip, these should be deleted	
+3. Duplicates, if you found the EXACT SAME VERSION of a piece of homebrew,DO NOT MARK  AS TRASH DIFFERENT VERSIONS OF THE SAME HOMEBREW, use your judgement and mark duplicates that are in the worst condition, for example if one is missing a readme and the other is not.
