@@ -15,6 +15,7 @@ As the source code for these projects is already being preserved, they will not 
 - [MElib](https://github.com/IridescentRose/MElib) - library to easily offload tasks to the PSP Media Engine
 - [OldSchool Library (OSLib) MODv2](https://github.com/dogo/oslibmodv2)
 - [psplib](https://github.com/0xe1f/psplib) - homebrew library for PSP
+- [VNPSP](https://github.com/liclac/VNPSP) - visual novel interpreter for the PSP, using the VNDS format. 
 
 ## Emulation
 
@@ -39,6 +40,7 @@ As the source code for these projects is already being preserved, they will not 
 
 ## Games
 
+- [CSPSP](https://github.com/st1x51/CSPSP_ADQ)
 - [Minecraft-PSP](https://github.com/Woolio/Minecraft-PSP)
 - [Nazi Zombies Portable Reboot](https://github.com/thyjukki/nzp-reboot/)
 - [PSPDoom](https://github.com/z2442/PSPDoom)
