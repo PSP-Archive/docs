@@ -14,21 +14,21 @@ ALL HOMEBREW SHOULD BE REPACKED in the 7z Format before being uploaded to archiv
 Homebrew games, apps and emulators will be stored on the Internet Archive for future preservation.	
 	
 To add new homebrews to the PSP collection:	
-- 1. Set up an account on archive.org, if you don't have one already;	
-- 2. Through the online uploader, drag the homebrew files onto the page. Make sure to add a screenshot of the homebrew as a separate file (outside the main folder) so that it will be shown as a cover for the item. You can most easily take the screenshot through PPSSPP, or any other emulator.	
-- 3. Enter the metadata in the interface as follows:	
--- a. Page Title: the name of the game or application;	
--- b. Page URL: you can leave the default one;	
--- c. Description: a short description of the item's content (e.g. "Homebrew puzzle game for the PlayStation Portable").	
--- d. Subject Tags: always add "playstation portable, homebrew" (without quote marks), plus any optional tags you feel might be relevant;	
--- e. Creator: if not mentioned in a readme file in the package, try to locate it within the game/app itself. If there are many authors, credit goes to the team as a whole, or the lead creator (e.g. HomebrewDude et al). Only if there is no mention of the creators at all, fill this field with "Unknown".	
--- f. Date: only add it if the original release date (at least the year) is known with any accuracy, otherwise leave blank.	
--- g. Collection: "psp-homebrew-library" (for authorized users); otherwise "Community Software" with the tags included so it will be later categorized in PlayStation Portable Library: Homebrews 	
--- h. Language: optional; as 90% of homebrew apps are released in English, it might make sense to fill this field only if the app is in a different language.	
--- i. License: whichever license is mentioned in the app's readme file. If none is mentioned, default to Public Domain	
--- j. More Options:	
---- j1. version: the version number of the release (only if mentioned, do not add if you have to guess it).	
---- j2. category: one of 'Game', 'App', 'Emulator'.	
+1. Set up an account on archive.org, if you don't have one already;	
+1. Through the online uploader, drag the homebrew files onto the page. Make sure to add a screenshot of the homebrew as a separate file (outside the main folder) so that it will be shown as a cover for the item. You can most easily take the screenshot through PPSSPP, or any other emulator.	
+1. Enter the metadata in the interface as follows:	
+	1. Page Title: the name of the game or application;	
+	1. Page URL: you can leave the default one;	
+	1. Description: a short description of the item's content (e.g. "Homebrew puzzle game for the PlayStation Portable").	
+	1. Subject Tags: always add "playstation portable, homebrew" (without quote marks), plus any optional tags you feel might be relevant;	
+	1. Creator: if not mentioned in a readme file in the package, try to locate it within the game/app itself. If there are many authors, credit goes to the team as a whole, or the lead creator (e.g. HomebrewDude et al). Only if there is no mention of the creators at all, fill this field with "Unknown".	
+	1. Date: only add it if the original release date (at least the year) is known with any accuracy, otherwise leave blank.	
+	1. Collection: "psp-homebrew-library" (for authorized users); otherwise "Community Software" with the tags included so it will be later categorized in PlayStation Portable Library: Homebrews 	
+	1. Language: optional; as 90% of homebrew apps are released in English, it might make sense to fill this field only if the app is in a different language.	
+	1. License: whichever license is mentioned in the app's readme file. If none is mentioned, default to Public Domain	
+	1. More Options:	
+		1. version: the version number of the release (only if mentioned, do not add if you have to guess it).	
+		1. category: one of 'Game', 'App', 'Emulator'.	
 	
 ------------------------------------------------------------------------------------------------------------	
 
