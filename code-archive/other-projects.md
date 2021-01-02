@@ -2,6 +2,20 @@
 
 As the source code for these projects is already being preserved, they will not be rehosted in here.
 
+## Apps and Utilities
+
+- [Pmplayer Advance](https://github.com/ErikPshat/pmplayer-advance) - media player for the PSP
+
+## Demos
+
+- [Suicide Barbie](https://github.com/theblacklotus/suicide-barbie)
+
+## Development
+
+- [MElib](https://github.com/IridescentRose/MElib) - library to easily offload tasks to the PSP Media Engine
+- [OldSchool Library (OSLib) MODv2](https://github.com/dogo/oslibmodv2)
+- [psplib](https://github.com/0xe1f/psplib) - homebrew library for PSP
+
 ## Emulation
 
 - [Atari800 PSP](https://github.com/8bitpsp/atari800) - Atari 800, 800XL, 130XE and 5200 emulator
@@ -28,13 +42,3 @@ As the source code for these projects is already being preserved, they will not 
 - [Minecraft-PSP](https://github.com/Woolio/Minecraft-PSP)
 - [Nazi Zombies Portable Reboot](https://github.com/thyjukki/nzp-reboot/)
 - [PSPDoom](https://github.com/z2442/PSPDoom)
-
-## Apps and Utilities
-
-- [Pmplayer Advance](https://github.com/ErikPshat/pmplayer-advance) - media player for the PSP
-
-## Development
-
-- [MElib](https://github.com/IridescentRose/MElib) - library to easily offload tasks to the PSP Media Engine
-- [OldSchool Library (OSLib) MODv2](https://github.com/dogo/oslibmodv2)
-- [psplib](https://github.com/0xe1f/psplib) - homebrew library for PSP
