@@ -30,8 +30,6 @@ To add new homebrews to the PSP collection:
 		1. version: the version number of the release (only if mentioned, do not add if you have to guess it).	
 		1. category: one of 'Game', 'App', 'Emulator'.	
 	
-------------------------------------------------------------------------------------------------------------	
-
 # Notes
 
 Inside those files there will be  a lot a trash data or duplicates, here are what you will need to MARK AS TRASH:	
