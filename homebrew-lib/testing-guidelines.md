@@ -45,7 +45,7 @@ Uploaders must be admins of the PSP Homebrew Library, otherwise it will not be p
 1. Cover image:
 	1. Any image uploaded in the root folder will be the cover image. Prefer in-game screenshots to artwork, menus or icons, as they provide a better impression of what the game looks like. 
 1. Subject Tags:
-	1. Pick one among 'game', 'app', 'port'. Additional tags can be added where deeded relevant by the uploader. 'Ports' typically require files from the original game to work. 'Games' may be based on a previous game, but the assets are created anew. 
+	1. Pick one among 'game', 'application', 'port'. Additional tags can be added where deeded relevant by the uploader. 'Ports' typically require files from the original game to work. 'Games' may be based on a previous game, but the assets are created anew. 
 	1. If a game participated in a competition (e.g. the NEO 2008 competition), add the relevant tag.
 	1. Support tags: add 'PSP-2000+ only' if the game won't work on a PSP-1000 model.
 1. Creator field:
