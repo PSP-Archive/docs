@@ -32,7 +32,9 @@ To add new homebrews to the PSP collection:
 	
 # Notes
 
-- [Magnet link for the Torrent containing the homebrews recovered so far](magnet:?xt=urn:btih:dfab696684bc32e76bcfddc300c0ab75a9af280b&dn=PSP%20Homebrew%20Archival%20Project&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fwambo.club%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.dutchtracking.com%3a6969%2fannounce&tr=udp%3a%2f%2ftc.animereactor.ru%3a8082%2fannounce&tr=udp%3a%2f%2ftracker.justseed.it%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce)
+- Magnet link for the Torrent containing the homebrews recovered so far:
+
+```magnet:?xt=urn:btih:dfab696684bc32e76bcfddc300c0ab75a9af280b&dn=PSP%20Homebrew%20Archival%20Project&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fwambo.club%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.dutchtracking.com%3a6969%2fannounce&tr=udp%3a%2f%2ftc.animereactor.ru%3a8082%2fannounce&tr=udp%3a%2f%2ftracker.justseed.it%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce```
 
 Inside those files there will be  a lot a trash data or duplicates, here are what you will need to MARK AS TRASH:	
 	
