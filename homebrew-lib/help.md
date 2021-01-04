@@ -12,6 +12,8 @@ One thing they don't shine for, however, is quality control. Most of them were l
 
 Where the source code is still available, attempts can be made to get the games to work again. If the source code is lost, or was never published, there is little to be done.
 
+Some apps will not work because they depend on a service that is no longer active (e.g. a client for the now defunct MSN Messenger service). In this case the app is not considered broken - it has served its purpose, and will be retained in the Library for its historic value.
+
 ### PSP-1000 (or 'PHAT' models)
 
 The PSP-1000 (the first one to be released) is the only PSP model to have only 32Mb of memory. Some homebrew developers choose to not support this version for their release, to take full advantage of the extra memory available in later models. Such released are tagged with 'PSP-2000+ only' within the PSP Homebrew Library.
