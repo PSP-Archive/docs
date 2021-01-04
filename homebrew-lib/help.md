@@ -15,3 +15,7 @@ Where the source code is still available, attempts can be made to get the games 
 ### PSP-1000 (or 'PHAT' models)
 
 The PSP-1000 (the first one to be released) is the only PSP model to have only 32Mb of memory. Some homebrew developers choose to not support this version for their release, to take full advantage of the extra memory available in later models. Such released are tagged with 'PSP-2000+ only' within the PSP Homebrew Library.
+
+### PlayStation Vita
+
+Most homebrews created for PSP should be able to run on a PS Vita through the Adrenaline app. Some homebrews (emulators especially) make use of the Media Engine chip, which is not found on the PS Vita. In this case, the homebrew  will not be able to work.
