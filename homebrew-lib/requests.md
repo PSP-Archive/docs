@@ -46,7 +46,7 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - Rise of the Triad PSP by Darkwar.
 - Secret Mario Chronicles.
 - SmashGpsp by Matkeupon.
-- SnakeSP by MrMr[iCE].
+- <s>SnakeSP by MrMr[iCE].</s>
 - Super Mario War by Percival.
 - Syobon Action PSP by DanielBR.
 - The Newton War by realtech VR.
