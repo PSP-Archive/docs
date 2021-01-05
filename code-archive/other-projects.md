@@ -12,6 +12,8 @@ As the source code for these projects is already being preserved, they will not 
 
 ## Development
 
+- [Insomnia-ProQuake-Engine](https://github.com/darkduke606/Insomnia-ProQuake-Engine)
+- [Kurok](https://github.com/TheMrIron2/kurok) - game and engine for PSP. 
 - [MElib](https://github.com/IridescentRose/MElib) - library to easily offload tasks to the PSP Media Engine
 - [OldSchool Library (OSLib) MODv2](https://github.com/dogo/oslibmodv2)
 - [psplib](https://github.com/0xe1f/psplib) - homebrew library for PSP
