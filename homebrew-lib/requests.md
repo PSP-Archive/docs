@@ -1,0 +1,60 @@
+### We are looking for (working) builds of the following games
+
+Feel free to add any games missing from the PSP Homebrew Library to this list.
+
+- <s>3D Roll by Chimecho.</s>
+- Alex the Allegator 4 by MK2k.
+- BOXHEAD PSP by SG57.
+- Battlegrounds 3D by Xfacter.
+- Beats of Rage PSP by SamuraiX.
+- <s>Biohazard 2 by Eskema.</s>
+- Bomb Jack PSP by Extemplario.
+- CSPSP Paintball Mod by Omnitrix.
+- <s>CSPSP by Nataku92.</s>
+- Callisto by FragLab.
+- Counter Strike Combined Assault (CS Portable) by Stealth Kill and rein4ce.
+- Crazy Gravity Portable by Underminer.
+- <s>Cubic Zombies by A_Noob.</s>
+- Desert Stunts by gorglucks.
+- Doom PSP by kgsws.
+- Duke Nukem 3D by Mr Peanut.
+- Eye Liner by realtech VR.
+- <s>GDP by DeViaNTe.</s>
+- GLQuake PSP by jurajstick.
+- Heretic PSP by kgsws.
+- Jazz JackRabbit PSP by Deniska.
+- Jelly Car by Drakon.
+- Kene Touhou Mohofu by Team Shanghai Alice.
+- Kill Everything That Moves by Deniska.
+- Kosmodrones by Abhoth, Like Lok and Frode Frank.
+- <s>Kurok PSP by MDave.</s>
+- Laserix 2 by fafenstein.
+- <s>Left4Quake by Ribcaged Entertainment.</s>
+- <s>Metal Blob Solid by Deniska.</s>
+- <s>Mobile Assault by codetactics.</s>
+- <s>Nazi Zombies Portable by NZP Team.</s>
+- No Gravity Demo by realtech VR.
+- <s>Open Tyrian PSP by Deniska.</s>
+- OpenTTD PSP by Jaime Peñalba.
+- Ozone by Helius.
+- PSP Dungeons by Charnold.
+- <s>Polygunwars by ahrimanes.</s>
+- Powder by Marvin Sanchez.
+- Purple Motion by realtech VR.
+- QUAKE I: Arena Mod by Lupus.
+- REminiscence by Sektor.
+- Rise of the Triad PSP by Darkwar.
+- Secret Mario Chronicles.
+- SmashGpsp by Matkeupon.
+- SnakeSP by MrMr[iCE].
+- Super Mario War by Percival.
+- Syobon Action PSP by DanielBR.
+- The Newton War by realtech VR.
+- The World's Hardest Game PSP by chocodino.
+- Toy War by davidgf.
+- UKKE by Xtreamlua Team.
+- Ultra by realtech VR.
+- Wolfstein 3D by Zack.
+- X-Moto-PSP by royale.
+- Zombie Crisis by Andrew "Hudson" Childs and Geoffrey van Dijk.
+- Zombie Desert by casco, Harry and jj_calvin.
