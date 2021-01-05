@@ -2,6 +2,10 @@
 
 Loading a homebrew game on your PSP will require that you first install a custom firmware. All PSP models ever released can now run custom firmware, and therefore, homebrew games. There are countless guides and YouTube videos available with detailed explanation on how to install custom firmwares, in case you do not have one on your device already.
 
+## Basics
+
+Extract the archives with [7-Zip](https://www.7-zip.org/) and place them in your Memory Stick under `PSP\GAME` (unless the readme states otherwise).
+
 ## Will they work?
 
 Homebrew games are wonderful for many reasons - individuals are willing to put in hours of work on their creation - allowing us to enjoy them - while expecting no compensation at all.
@@ -11,10 +15,6 @@ One thing they don't shine for, however, is quality control. Most of them were l
 Where the source code is still available, attempts can be made to get the games to work again. If the source code is lost, or was never published, there is little to be done.
 
 Some apps will not work because they depend on a service that is no longer active (e.g. a client for the now defunct MSN Messenger service). In this case the app is not considered broken - it has served its purpose, and will be retained in the Library for its historic value.
-
-## Basics
-
-Extract the archives with [7-Zip](https://www.7-zip.org/) and place them in your Memory Stick under `PSP\GAME` (unless the readme states otherwise).
 
 ### PSP-1000 (or 'PHAT' models)
 
