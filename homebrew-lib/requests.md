@@ -24,7 +24,7 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - Heretic PSP by kgsws.
 - Jazz JackRabbit PSP by Deniska.
 - <s>Jelly Car by Drakon.</s>
-- <s>Kene Touhou Mohofu by Team Shanghai Alice.<s>
+- <s>Kene Touhou Mohofu by Team Shanghai Alice.</s>
 - Kill Everything That Moves by Deniska.
 - Kosmodrones by Abhoth, Like Lok and Frode Frank.
 - <s>Kurok PSP by MDave.</s>
