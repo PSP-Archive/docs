@@ -23,8 +23,8 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - GLQuake PSP by jurajstick.
 - Heretic PSP by kgsws.
 - Jazz JackRabbit PSP by Deniska.
-- Jelly Car by Drakon.
-- Kene Touhou Mohofu by Team Shanghai Alice.
+- <s>Jelly Car by Drakon.</s>
+- <s>Kene Touhou Mohofu by Team Shanghai Alice.<s>
 - Kill Everything That Moves by Deniska.
 - Kosmodrones by Abhoth, Like Lok and Frode Frank.
 - <s>Kurok PSP by MDave.</s>
@@ -35,7 +35,7 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - <s>Nazi Zombies Portable by NZP Team.</s>
 - No Gravity Demo by realtech VR.
 - <s>Open Tyrian PSP by Deniska.</s>
-- OpenTTD PSP by Jaime Peñalba.
+- <s>OpenTTD PSP by Jaime Peñalba.</s>
 - Ozone by Helius.
 - PSP Dungeons by Charnold.
 - <s>Polygunwars by ahrimanes.</s>
@@ -47,7 +47,7 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - Secret Mario Chronicles.
 - SmashGpsp by Matkeupon.
 - <s>SnakeSP by MrMr[iCE].</s>
-- Super Mario War by Percival.
+- <s>Super Mario War by Percival.</s>
 - Syobon Action PSP by DanielBR.
 - The Newton War by realtech VR.
 - The World's Hardest Game PSP by chocodino.
@@ -57,4 +57,4 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - Wolfstein 3D by Zack.
 - X-Moto-PSP by royale.
 - Zombie Crisis by Andrew "Hudson" Childs and Geoffrey van Dijk.
-- Zombie Desert by casco, Harry and jj_calvin.
+- <s>Zombie Desert by casco, Harry and jj_calvin.</s>
