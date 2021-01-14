@@ -3,7 +3,7 @@
 Feel free to add any games missing from the PSP Homebrew Library to this list.
 
 - <s>3D Roll by Chimecho.</s>
-- Alex the Allegator 4 by MK2k.
+- <s>Alex the Allegator 4 by MK2k.</s>
 - BOXHEAD PSP by SG57.
 - Battlegrounds 3D by Xfacter.
 - Beats of Rage PSP by SamuraiX.
@@ -13,22 +13,22 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - <s>CSPSP by Nataku92.</s>
 - Callisto by FragLab.
 - Counter Strike Combined Assault (CS Portable) by Stealth Kill and rein4ce.
-- Crazy Gravity Portable by Underminer.
+- <s>Crazy Gravity Portable by Underminer.</s>
 - <s>Cubic Zombies by A_Noob.</s>
-- Desert Stunts by gorglucks.
+- <s>Desert Stunts by gorglucks.</s>
 - Doom PSP by kgsws.
 - Duke Nukem 3D by Mr Peanut.
 - Eye Liner by realtech VR.
 - <s>GDP by DeViaNTe.</s>
 - GLQuake PSP by jurajstick.
 - Heretic PSP by kgsws.
-- Jazz JackRabbit PSP by Deniska.
+- <s>Jazz JackRabbit PSP by Deniska.</s>
 - <s>Jelly Car by Drakon.</s>
 - <s>Kene Touhou Mohofu by Team Shanghai Alice.</s>
 - Kill Everything That Moves by Deniska.
 - Kosmodrones by Abhoth, Like Lok and Frode Frank.
 - <s>Kurok PSP by MDave.</s>
-- Laserix 2 by fafenstein.
+- <s>Laserix 2 by fafenstein.</s>
 - <s>Left4Quake by Ribcaged Entertainment.</s>
 - <s>Metal Blob Solid by Deniska.</s>
 - <s>Mobile Assault by codetactics.</s>
@@ -45,13 +45,13 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - REminiscence by Sektor.
 - Rise of the Triad PSP by Darkwar.
 - Secret Mario Chronicles.
-- SmashGpsp by Matkeupon.
+- <s>SmashGpsp by Matkeupon.</s>
 - <s>SnakeSP by MrMr[iCE].</s>
 - <s>Super Mario War by Percival.</s>
 - Syobon Action PSP by DanielBR.
 - The Newton War by realtech VR.
-- The World's Hardest Game PSP by chocodino.
-- Toy War by davidgf.
+- <s>The World's Hardest Game PSP by chocodino.</s>
+- <s>Toy War by davidgf.</s>
 - UKKE by Xtreamlua Team.
 - Ultra by realtech VR.
 - Wolfstein 3D by Zack.
