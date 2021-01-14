@@ -27,6 +27,6 @@ Having completed the installation, you will find the store icon under Network ->
 
 ## Manual installation from Memory Stick
 
-After connecting your PSP to your computer, download (https://archive.org/download/pic_0001/HDStore.prs)[HDStore.prs], place it under the PSP/RADIOPLAYER folder, and launch it from the Network menu.
+After connecting your PSP to your computer, download [HDStore.prs](https://archive.org/download/pic_0001/HDStore.prs), place it under the PSP/RADIOPLAYER folder, and launch it from the Network menu.
 
 ![Save path for the HDStore channel](hdstore-img/hdstore_save_path.png)
