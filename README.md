@@ -9,6 +9,7 @@ Documentation for the PlayStation Portable Archive.
 ## Preservation of binary files
 
 - [PlayStation Portable Homebrew Library](https://archive.org/details/psp-homebrew-library) on Archive.org - our sister project. 
+  - [Setting up the Homebrew Discord Store](homebrew-lib/hdstore.md)
   - [Help page for end-users](homebrew-lib/help.md)
   - [Missing homebrews and requests page](homebrew-lib/requests.md)  
   
