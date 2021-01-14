@@ -17,6 +17,7 @@ The EBOOT file and its immediate contents must be placed at the root of the arch
 	1. **Support tags**:
 		1. 'PSP-2000+ only': if the game won't work on a PSP-1000 model.
 		1. 'Go!Cam': game supports or requires the PSP camera.
+		1. 'Go!Explore': game supports or requires the GPS module.
 		1. 'IrDA ': game/app supports or requires an infrared device.
 1. **Creator** field:
 	1. Where both the real names and nicknames of a creator are known, prefer real names (as those tend to change less often).
