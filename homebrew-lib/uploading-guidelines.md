@@ -15,6 +15,7 @@ The EBOOT file and its immediate contents must be placed at the root of the arch
 	- 'Ports' typically require files from the original game to work. 'Games' may be based on a previous game, but the assets are created anew. 
 	1. If a game participated in a competition (e.g. the NEO 2008 competition), add the relevant tag.
 	1. **Support tags**:
+		1. '1.50 FW only': if the game works on firmware 1.50, but not on any other version (even by using eLoader).
 		1. 'PSP-2000+ only': if the game won't work on a PSP-1000 model.
 		1. 'not working': if the game will not work on real hardware (on any firmware), but it is still retained for its historical value. This applies even if it does work on PPSSPP or another emulator.
 	1. **Accessory tags**:
