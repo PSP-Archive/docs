@@ -23,3 +23,7 @@ The PSP-1000 (the first one to be released) is the only PSP model to have only 3
 ### PlayStation Vita
 
 Most homebrews created for PSP should be able to run on a PS Vita through the Adrenaline app. Some homebrews (emulators especially) make use of the Media Engine chip, which is not found on the PS Vita. In this case, the homebrew  will not be able to work.
+
+## A note on Authorship
+
+The 'creator' field on the Internet Archive pages reflects the credits listed either within the archived homebrew itself, or the readme file provided with a given build. We make no claims on their accuracy, nor do we seek to establish an absolute truth on the authorship of a project. We have no means to adjudicate authorship disputes. The 'creator' field is merely a convenient way of cataloguing projects as they are preserved. 
