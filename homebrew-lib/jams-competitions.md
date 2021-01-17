@@ -65,6 +65,10 @@
 
 - https://web.archive.org/web/20080801043137/https://qj.net/QJ-NET-kicks-off-the-PSPUpdates-Summer-Homebrew-Contest/pg/49/aid/122483
 
+## Scenery Beta 2008 International Homebrew Showcase
+
+- https://www.scenebeta.com/noticia/final-results-scenery-beta-2008
+
 ## 1000$ pour la scène (2008-2009)
 
 - https://gamergen.com/actualites/concours-developpement-1000-pour-scene-lancement-officiel-24321-1
@@ -88,14 +92,26 @@
 
 - http://psp-news.dcemu.co.uk/-iwdc-ita-s-winter-developers-contest-269182.html
 
+## Scenery Beta 2009 International Homebrew Showcase
+
+- https://www.scenebeta.com/noticia/scenery-beta-2009-international-homebrew-showcase-0
+
 ## Homebrew Idol 3 (2010)
 
 - https://web.archive.org/web/20100923173643/http://www.psp-hacks.com:80/2010/09/20/homebrew-idol-3-results
+
+## Scenery Beta 2010 International Homebrew Showcase
+
+- https://www.scenebeta.com/noticia/scenery-beta-2010-international-homebrew-showcase-rules
 
 ## PSP Genesis competition 2011
 
 - https://wololo.net/talk/viewforum.php?f=25&sid=3c4483163ef6dad4835e9093619dfa3f
 - https://gamergen.com/actualites/psp-genesis-competition-resultats-pspgen-connus-51287-1
+
+## Scenery Beta 2011 International Homebrew Showcase
+
+- https://www.scenebeta.com/noticia/scenery-beta-2011-international-homebrew-showcase-rules
 
 ## PSP Homebrew Game Competition 2013
 
