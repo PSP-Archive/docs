@@ -53,6 +53,11 @@
 
 - https://web.archive.org/web/20070521203210/http://pxp.thayer-remodeling.com/forums/
 
+## GBAX 2007 Coding Competition
+
+- https://web.archive.org/web/20111125201632/http://gbax.gp2x.de/gbax2007.html
+
+
 ## NEO Spring Coding Compo 2008 
 
 - https://www.neoflash.com/forum/index.php?board=110.0
