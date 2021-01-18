@@ -57,6 +57,9 @@
 
 - https://web.archive.org/web/20111125201632/http://gbax.gp2x.de/gbax2007.html
 
+## Gx-mod/XtreamLua 2007 contest
+
+- http://psp-news.dcemu.co.uk/-gx-mod-xtreamlua-2007-contest-25-homebrews-released-67513.html
 
 ## NEO Spring Coding Compo 2008 
 
