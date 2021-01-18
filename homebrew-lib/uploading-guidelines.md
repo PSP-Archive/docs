@@ -10,6 +10,8 @@ The EBOOT file and its immediate contents must be placed at the root of the arch
 
 1. Cover image:
 	1. Any image uploaded in the root folder will be the cover image. Prefer in-game screenshots to artwork, menus or icons, as they provide a better impression of what the game looks like. 
+1. **Page Title**:
+	1. Only include the name of the homebrew. Version numbers belong in their own field (see below).
 1. **Subject Tags**:
 	1. Pick one among 'game', 'application', 'emulator', 'demo', 'port'. Additional tags can be added where deeded relevant by the uploader. 
 	- 'Ports' typically require files from the original game to work. 'Games' may be based on a previous game, but the assets are created anew. 
