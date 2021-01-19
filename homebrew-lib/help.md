@@ -28,7 +28,7 @@ Most homebrews created for PSP should be able to run on a PS Vita through the Ad
 
 Ticking the Software Rendering box in the Graphics settings of PPSSPP may get rid of glitches in some games. It will also decrease performance, however.
 
-![PPSSPP settings](help-img/ppsspp-swr-opt.png)
+![PPSSPP settings](help-img/ppsspp-swr-opt.PNG)
 
 ## A note on Authorship
 
