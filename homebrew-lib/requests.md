@@ -4,57 +4,57 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 
 - <s>3D Roll by Chimecho.</s>
 - <s>Alex the Allegator 4 by MK2k.</s>
-- BOXHEAD PSP by SG57.
-- Battlegrounds 3D by Xfacter.
+- <s>BOXHEAD PSP by SG57.</s>
+- <s>Battlegrounds 3D by Xfacter.</s>
 - Beats of Rage PSP by SamuraiX.
 - <s>Biohazard 2 by Eskema.</s>
 - Bomb Jack PSP by Extemplario.
 - CSPSP Paintball Mod by Omnitrix.
 - <s>CSPSP by Nataku92.</s>
 - Callisto by FragLab.
-- Counter Strike Combined Assault (CS Portable) by Stealth Kill and rein4ce.
+- <s>Counter Strike Combined Assault (CS Portable) by Stealth Kill and rein4ce.</s>
 - <s>Crazy Gravity Portable by Underminer.</s>
 - <s>Cubic Zombies by A_Noob.</s>
 - <s>Desert Stunts by gorglucks.</s>
 - Doom PSP by kgsws.
 - Duke Nukem 3D by Mr Peanut.
-- Eye Liner by realtech VR.
+- <s>Eye Liner by realtech VR.</s>
 - <s>GDP by DeViaNTe.</s>
 - GLQuake PSP by jurajstick.
 - Heretic PSP by kgsws.
 - <s>Jazz JackRabbit PSP by Deniska.</s>
 - <s>Jelly Car by Drakon.</s>
 - <s>Kene Touhou Mohofu by Team Shanghai Alice.</s>
-- Kill Everything That Moves by Deniska.
-- Kosmodrones by Abhoth, Like Lok and Frode Frank.
+- <s>Kill Everything That Moves by Deniska.</s>
+- <s>Kosmodrones by Abhoth, Like Lok and Frode Frank.</s>
 - <s>Kurok PSP by MDave.</s>
 - <s>Laserix 2 by fafenstein.</s>
 - <s>Left4Quake by Ribcaged Entertainment.</s>
 - <s>Metal Blob Solid by Deniska.</s>
 - <s>Mobile Assault by codetactics.</s>
 - <s>Nazi Zombies Portable by NZP Team.</s>
-- No Gravity Demo by realtech VR.
+- <s>No Gravity Demo by realtech VR.</s>
 - <s>Open Tyrian PSP by Deniska.</s>
 - <s>OpenTTD PSP by Jaime Peñalba.</s>
-- Ozone by Helius.
-- PSP Dungeons by Charnold.
+- <s>Ozone by Helius.</s>
+- <s>PSP Dungeons by Charnold.</s>
 - <s>Polygunwars by ahrimanes.</s>
 - Powder by Marvin Sanchez.
-- Purple Motion by realtech VR.
-- QUAKE I: Arena Mod by Lupus.
-- REminiscence by Sektor.
+- <s>Purple Motion by realtech VR.</s>
+- <s>QUAKE I: Arena Mod by Lupus.</s>
+- <s>REminiscence by Sektor.</s>
 - Rise of the Triad PSP by Darkwar.
 - Secret Mario Chronicles.
 - <s>SmashGpsp by Matkeupon.</s>
 - <s>SnakeSP by MrMr[iCE].</s>
 - <s>Super Mario War by Percival.</s>
 - Syobon Action PSP by DanielBR.
-- The Newton War by realtech VR.
+- <s>The Newton War by realtech VR.</s>
 - <s>The World's Hardest Game PSP by chocodino.</s>
 - <s>Toy War by davidgf.</s>
 - UKKE by Xtreamlua Team.
 - Ultra by realtech VR.
 - Wolfstein 3D by Zack.
-- X-Moto-PSP by royale.
+- <s>X-Moto-PSP by royale.</s>
 - Zombie Crisis by Andrew "Hudson" Childs and Geoffrey van Dijk.
 - <s>Zombie Desert by casco, Harry and jj_calvin.</s>
