@@ -33,3 +33,7 @@ Ticking the Software Rendering box in the Graphics settings of PPSSPP may get ri
 ## A note on Authorship
 
 The 'creator' field on the Internet Archive pages reflects the credits listed either within the archived homebrew itself, or the readme file provided with a given build. We make no claims on their accuracy, nor do we seek to establish an absolute truth on the authorship of a project. We have no means to adjudicate authorship disputes. The 'creator' field is merely a convenient way of cataloguing projects as they are preserved. 
+
+## Reporting non-working Homebrews
+
+To report a broken homebrew, create a new entry in our [Issues page](https://github.com/PSP-Archive/docs/issues). Make sure to specify the PSP model and the firmware version that you are using.
