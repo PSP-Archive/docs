@@ -12,8 +12,6 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - Heretic PSP by kgsws.
 - Powder by Marvin Sanchez.
 - Rise of the Triad PSP by Darkwar.
-- Syobon Action PSP by DanielBR.
 - UKKE by Xtreamlua Team.
 - Ultra by realtech VR.
 - Wolfstein 3D by Zack.
-- Zombie Crisis by Andrew "Hudson" Childs and Geoffrey van Dijk.
