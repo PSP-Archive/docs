@@ -16,6 +16,7 @@ Documentation for the PlayStation Portable Archive.
 - [List of homebrews to be tested](https://docs.google.com/spreadsheets/d/1tPiCXtLmJ5W3JSIciSAlItnpXNcSna3-Xe0gCXeLJ0A/edit?ts=5fe73a89&pli=1#gid=2012767625)
   - [Testing and preservation guidelines](homebrew-lib/testing-guidelines.md)
   - [Guidelines for uploaders](homebrew-lib/uploading-guidelines.md)
+  - [Non-working games](https://archive.org/details/not-working-psp) - they are collected in this Internet Archive item until they are playable again.
   
 - [List of PSP Game Jams and Competitions](homebrew-lib/jams-competitions.md) - to find quality homebrew games/apps we might have missed.
 - [Where to look for content](https://docs.google.com/spreadsheets/d/11V_3Z18Va8iJxSsgaPAkEvirSF53O7oX40RvnBcEcNc/edit?usp=sharing) - sites that might have useful stuff.
