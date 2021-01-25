@@ -41,7 +41,7 @@
 
 - https://www.neoflash.com/forum/index.php?board=76.0
 
-![Neo spring 07](jams-img/neo-spring-compo-2007-psp-winner.GIF)
+![Neo spring 07](jams-img/neo-spring-compo-2007-psp-winner.gif)
 
 ## NEO Summer Compo 2007 for PSP division
 
