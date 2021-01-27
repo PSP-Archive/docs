@@ -9,6 +9,19 @@
 
 - https://web.archive.org/web/20140810015430/http://psp-news.dcemu.co.uk/psp-30-day-coding-competition-2-winner-announced-17345.html
 
+## PS2DEV The Fourth Creation 2006
+
+- http://lukasz.dk/mirror/forums.ps2dev.org/viewtopica42a.html?t=5410&start=30
+- https://web.archive.org/web/20060701152551/http://ps2dev.org/The_Fourth_Creation/
+
+Entries for the PSP competition:
+
+- Meeku's Quest by illFoundedMind.com developers.
+- Jump Gunnar by PSPSMM coder team.
+- Droplets by Drakonite.
+- PSPTris by Sandberg.
+- Break-in by Callen Shaw of Omega Games. 
+
 ## NEO spring coding contest 2006 for PSP APPs
 
 - https://www.neoflash.com/forum/index.php?board=38.0
