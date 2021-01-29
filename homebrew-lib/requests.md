@@ -11,7 +11,3 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - GLQuake PSP by jurajstick.
 - Heretic PSP by kgsws.
 - Powder by Marvin Sanchez.
-- Rise of the Triad PSP by Darkwar.
-- UKKE by Xtreamlua Team.
-- Ultra by realtech VR.
-- Wolfstein 3D by Zack.
