@@ -60,6 +60,38 @@ Entries for the PSP competition:
 
 - https://www.neoflash.com/forum/index.php?PHPSESSID=7rlleitgj2t6esea2s27i9pvki&board=91.0
 
+for PSP APP (13 enteries):
+[PSP APP] MasterBoy                                           By: Brunni
+[PSP APP] Academic Aid – Bring out the real Whiz kid in you!  By: Mr305
+[PSP APP] yPaint Anniversary Edition                          By: yongobongo
+[PSP APP] UFO v5.0                                            By: almost219
+[PSP APP] My Portuguese Teacher v1.0                          By: Madcupid
+[PSP APP] Bermuda CS 7                                        By: bumuckl
+[PSP APP] Manga2PSP                                           By: Yodajr
+[PSP APP] Easy PSP Calculator v2.0                            By: pucelano
+[PSP APP] Xandu's Media Player 1.2d                           By: Xandu
+[PSP APP] Mandelbrot Fractal Generator                        By: gambiting
+[PSP APP] Slash-N-Flash V3                                    By: Slasher
+[PSP APP] PSP SpreadSheet v2.00                               By: pucelano
+[PSP APP] 7WiN Windowing System for PSP LUA                   By: yongobongo
+
+for PSP GAME (15 enteries):
+[PSP GAME] Gunnar Hero version 0.20             By: teamsushi
+[PSP GAME] QQ Manto v0.5                        By: nataku92
+[PSP GAME] Shoot4Fun                            By: gambiting
+[PSP GAME] PSP Tower Defense                    By: tacticalpenguin
+[PSP GAME] Defence Station Portable             By: danzel
+[PSP GAME] Times of War (T.O.W.) v4.0           By: Madcupid
+[PSP GAME] infXion                              By: CBarox
+[PSP GAME] Ultra Program                        By: mitchelljm
+[PSP GAME] cdogsPSP (C-Dogs/Cyberdogs) port     By: Sektor
+[PSP GAME] PucePong v1.0                        By: pucelano
+[PSP GAME] Ozone                                By: Helius
+[PSP GAME] Hamtaro Holidays                     By: leviadragon
+[PSP GAME] PSP Simon Portable                   By: saulotmalo
+[PSP GAME] Dementia v0.1b                       By: Freshmilk
+[PSP GAME] HEX-A-HOP                            By: deniska
+
 ## Défi devSgen (2007)
 
 - https://www.jeuxvideo-live.com/forum/topic/17126-d%C3%A9fi-devsgen-programmez-un-rubiks-cube-et-gagnez-500/

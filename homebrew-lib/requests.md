@@ -2,6 +2,7 @@
 
 Feel free to add any games missing from the PSP Homebrew Library to this list.
 
+- AniMate by Insert_witty_name.
 - Beats of Rage PSP by SamuraiX.
 - Bomb Jack PSP by Extemplario.
 - CSPSP Paintball Mod by Omnitrix.
