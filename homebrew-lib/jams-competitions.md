@@ -60,6 +60,7 @@ Entries for the PSP competition:
 
 - https://www.neoflash.com/forum/index.php?PHPSESSID=7rlleitgj2t6esea2s27i9pvki&board=91.0
 
+```
 for PSP APP (13 enteries):
 [PSP APP] MasterBoy                                           By: Brunni
 [PSP APP] Academic Aid – Bring out the real Whiz kid in you!  By: Mr305
@@ -91,6 +92,7 @@ for PSP GAME (15 enteries):
 [PSP GAME] PSP Simon Portable                   By: saulotmalo
 [PSP GAME] Dementia v0.1b                       By: Freshmilk
 [PSP GAME] HEX-A-HOP                            By: deniska
+```
 
 ## Défi devSgen (2007)
 
