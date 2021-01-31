@@ -5,6 +5,14 @@
 - https://web.archive.org/web/20051223225608/http://psp-news.dcemu.co.uk/psp30codingcomp.shtml
 - http://psp-news.dcemu.co.uk/psp-news-amp-lik-sang-30-day-coding-competition-winner-announced-13923.html
 
+- William Edmeades - Loki (#1)
+- Stéphane Lévesque - Ikuzo (#2)
+- Deniska / NOIZ2SAv07 (#3)
+- Mike Haggar - PSPicross 0.2(#4)
+- Xul8t0r / Submission (#5)
+- PSmonkey / Quake 3 Bsp Map Viewer (#6)
+- l33th4x0r / Connect 4 (#7)
+
 ## PSP 30 Day Coding Competition #2 (2005-2006)
 
 - https://web.archive.org/web/20140810015430/http://psp-news.dcemu.co.uk/psp-30-day-coding-competition-2-winner-announced-17345.html
