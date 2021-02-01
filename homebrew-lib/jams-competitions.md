@@ -1,17 +1,11 @@
 # Homebrew game jams and competitions for PSP
 
+- https://docs.google.com/spreadsheets/d/1JqOYCV3jG-_ylpcSuPKXVYlhoWfiauJyYQgm6qPdu6M/edit?usp=sharing
+
 ## PSP NEWS & Lik Sang 30 Day Coding Comp (2005)
 
 - https://web.archive.org/web/20051223225608/http://psp-news.dcemu.co.uk/psp30codingcomp.shtml
 - http://psp-news.dcemu.co.uk/psp-news-amp-lik-sang-30-day-coding-competition-winner-announced-13923.html
-
-- William Edmeades - Loki (#1)
-- Stéphane Lévesque - Ikuzo (#2)
-- Deniska / NOIZ2SAv07 (#3)
-- Mike Haggar - PSPicross 0.2(#4)
-- Xul8t0r / Submission (#5)
-- PSmonkey / Quake 3 Bsp Map Viewer (#6)
-- l33th4x0r / Connect 4 (#7)
 
 ## PSP 30 Day Coding Competition #2 (2005-2006)
 
@@ -21,18 +15,12 @@
 
 - http://lukasz.dk/mirror/forums.ps2dev.org/viewtopica42a.html?t=5410&start=30
 - https://web.archive.org/web/20060701152551/http://ps2dev.org/The_Fourth_Creation/
-
-Entries for the PSP competition:
-
-- Meeku's Quest by illFoundedMind.com developers.
-- Jump Gunnar by PSPSMM coder team.
-- Droplets by Drakonite.
-- PSPTris by Sandberg.
-- Break-in by Callen Shaw of Omega Games. 
+- http://psp-news.dcemu.co.uk/the-fourth-creation-game-competition-results-27805.html
 
 ## NEO spring coding contest 2006 for PSP APPs
 
 - https://www.neoflash.com/forum/index.php?board=38.0
+- https://web.archive.org/web/20060427155104/http://www.neoflash.com/
 
 ## NEO Summer Coding Compo 2006
 

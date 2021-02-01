@@ -7,8 +7,6 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - Bomb Jack PSP by Extemplario.
 - CSPSP Paintball Mod by Omnitrix.
 - Callisto by FragLab.
-- Doom PSP by kgsws.
 - Duke Nukem 3D by Mr Peanut.
 - GLQuake PSP by jurajstick.
-- Heretic PSP by kgsws.
 - Powder by Marvin Sanchez.
