@@ -19,4 +19,5 @@ Documentation for the PlayStation Portable Archive.
   - [Non-working games](https://archive.org/details/not-working-psp) - they are collected in this Internet Archive item until they are playable again.
   
 - [List of PSP Game Jams and Competitions](homebrew-lib/jams-competitions.md) - to find quality homebrew games/apps we might have missed.
+  - [List of competition entries](https://docs.google.com/spreadsheets/d/1JqOYCV3jG-_ylpcSuPKXVYlhoWfiauJyYQgm6qPdu6M/edit?usp=sharing)
 - [Where to look for content](https://docs.google.com/spreadsheets/d/11V_3Z18Va8iJxSsgaPAkEvirSF53O7oX40RvnBcEcNc/edit?usp=sharing) - sites that might have useful stuff.

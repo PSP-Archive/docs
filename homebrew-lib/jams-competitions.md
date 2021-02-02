@@ -24,7 +24,7 @@
 
 ## NEO Summer Coding Compo 2006
 
-- https://www.neoflash.com/forum/index.php?board=66.0
+- https://www.neoflash.com/forum/index.php?topic=3050.0
 
 ## PSP NEWS & Lik Sang 15 Day Lua Coding Comp 
 
