@@ -26,17 +26,24 @@
 
 - https://www.neoflash.com/forum/index.php?topic=3050.0
 
-## PSP NEWS & Lik Sang 15 Day Lua Coding Comp 
+## PSP NEWS & Lik Sang 15 Day Lua Coding Comp (2006)
 
 - https://web.archive.org/web/20060614072544/http://psp-news.dcemu.co.uk/15day-luacoding-competition.shtml
 
 ## QJ.NET and Lik-sang Summer Homebrew Competition (2006)
 
 - https://web.archive.org/web/20060615221845/http://pspupdates.qj.net/QJ-NET-and-Lik-sang-Kickoff-Summer-Homebrew-Competition/pg/49/aid/51063
+- https://qj.net/qj-net-and-liksang-summer-coding-competition-the-results-are-in/
 
-## PSP3D.com Homebrew Contest (2006)
+## PSP3D.com Ultimate Goodies And Cash Giveaway Contest (2006)
 
 - https://web.archive.org/web/20061028201635/http://psp3d.com:80/homepage-news/11819-ultimate-goodies-cash-giveaway-poll.html
+- https://web.archive.org/web/20071204152248/http://psp3d.com/homepage-news/12294-ultimate-goodies-cash-giveaway-results.html
+
+## PSPSource.de LUA Coding Competition 2006
+
+- https://web.archive.org/web/20170613200959/http://www.pspsource.de/news.php?extend.1398
+- https://web.archive.org/web/20070102225853/http://www.planet-playstation.de/?article=4701
 
 ## PSP-Hacks Homebrew Competition (2007)
 
@@ -45,58 +52,27 @@
 ## PSPSource Summer Coding Competition 2007
 
 - https://web.archive.org/web/20071011123113/http://pspsource.de/news.php?extend.2237
+- https://web.archive.org/web/20071011111155/http://pspsource.de/hdp_plugins/forum/forum_viewforum.php?2243
 
 ## NEO Spring Compo 2007 for PSP division
 
 - https://www.neoflash.com/forum/index.php?board=76.0
-
-![Neo spring 07](jams-img/neo-spring-compo-2007-psp-winner.gif)
+- https://www.neoflash.com/forum/index.php?PHPSESSID=6mhecrpuce8ve9jjlejj393atu&topic=4082.0
 
 ## NEO Summer Compo 2007 for PSP division
 
 - https://www.neoflash.com/forum/index.php?PHPSESSID=7rlleitgj2t6esea2s27i9pvki&board=91.0
-
-```
-for PSP APP (13 enteries):
-[PSP APP] MasterBoy                                           By: Brunni
-[PSP APP] Academic Aid – Bring out the real Whiz kid in you!  By: Mr305
-[PSP APP] yPaint Anniversary Edition                          By: yongobongo
-[PSP APP] UFO v5.0                                            By: almost219
-[PSP APP] My Portuguese Teacher v1.0                          By: Madcupid
-[PSP APP] Bermuda CS 7                                        By: bumuckl
-[PSP APP] Manga2PSP                                           By: Yodajr
-[PSP APP] Easy PSP Calculator v2.0                            By: pucelano
-[PSP APP] Xandu's Media Player 1.2d                           By: Xandu
-[PSP APP] Mandelbrot Fractal Generator                        By: gambiting
-[PSP APP] Slash-N-Flash V3                                    By: Slasher
-[PSP APP] PSP SpreadSheet v2.00                               By: pucelano
-[PSP APP] 7WiN Windowing System for PSP LUA                   By: yongobongo
-
-for PSP GAME (15 enteries):
-[PSP GAME] Gunnar Hero version 0.20             By: teamsushi
-[PSP GAME] QQ Manto v0.5                        By: nataku92
-[PSP GAME] Shoot4Fun                            By: gambiting
-[PSP GAME] PSP Tower Defense                    By: tacticalpenguin
-[PSP GAME] Defence Station Portable             By: danzel
-[PSP GAME] Times of War (T.O.W.) v4.0           By: Madcupid
-[PSP GAME] infXion                              By: CBarox
-[PSP GAME] Ultra Program                        By: mitchelljm
-[PSP GAME] cdogsPSP (C-Dogs/Cyberdogs) port     By: Sektor
-[PSP GAME] PucePong v1.0                        By: pucelano
-[PSP GAME] Ozone                                By: Helius
-[PSP GAME] Hamtaro Holidays                     By: leviadragon
-[PSP GAME] PSP Simon Portable                   By: saulotmalo
-[PSP GAME] Dementia v0.1b                       By: Freshmilk
-[PSP GAME] HEX-A-HOP                            By: deniska
-```
+- https://www.neoflash.com/go/index.php/2007/09/02/the-finally-result-for-this-neo-summer-compo-2007/
 
 ## Défi devSgen (2007)
 
 - https://www.jeuxvideo-live.com/forum/topic/17126-d%C3%A9fi-devsgen-programmez-un-rubiks-cube-et-gagnez-500/
+- https://gamergen.com/actualites/defis-devsgen-rubik-cube-qui-gagne-500-25014-1
 
 ## PxP Homebrew Competition (2007)
 
 - https://web.archive.org/web/20070521203210/http://pxp.thayer-remodeling.com/forums/
+- https://web.archive.org/web/20070308193544/http://pxp.thayer-remodeling.com/forums/forumdisplay.php?f=20
 
 ## GBAX 2007 Coding Competition
 
