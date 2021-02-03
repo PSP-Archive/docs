@@ -131,17 +131,19 @@
 
 ## NEO Summer Coding Compo 2009
 
-- https://www.neoflash.com/forum/index.php?board=126.0
+- https://www.neoflash.com/forum/index.php?topic=5739.0
 - http://psp-news.dcemu.co.uk/the-neo-summer-coding-compo-2009-final-results-243909.html
 
 ## Homebrew Idol 2 Competition (2009)
 
-- http://psp-hacks.com/forums/f141/homebrew-idol-2-competition-t233390
-- https://gamergen.com/actualites/homebrew-idol2-sg57-psphacks-41012-1
+- https://web.archive.org/web/20090616070408/http://www.psp-hacks.com/file/1746
+- https://web.archive.org/web/20090622073052/http://www.psp-hacks.com:80/2009/06/19/homebrew-idol-2-the-results-are-in
 
 ## ITA's Winter Developers Contest (2009)
 
 - http://psp-news.dcemu.co.uk/-iwdc-ita-s-winter-developers-contest-269182.html
+- https://web.archive.org/web/20100102003411/http://psp-ita.com/forum/viewforum.php?f=30
+- https://web.archive.org/web/20100212103314/http://www.psp-ita.com:80/forum/viewforum.php?f=31
 
 ## Scenery Beta 2009 International Homebrew Showcase
 
@@ -155,6 +157,10 @@
 
 - https://www.scenebeta.com/noticia/scenery-beta-2010-international-homebrew-showcase-rules
 
+## NEO Retro Coding Compo 2010
+
+- https://www.neoflash.com/go/index.php/2010/08/22/the-neo-retro-coding-compo-2010-is-closed-have-52-entries-total/
+
 ## PSP Genesis competition 2011
 
 - https://wololo.net/talk/viewforum.php?f=25&sid=3c4483163ef6dad4835e9093619dfa3f
@@ -163,6 +169,14 @@
 ## Scenery Beta 2011 International Homebrew Showcase
 
 - https://www.scenebeta.com/noticia/scenery-beta-2011-international-homebrew-showcase-rules
+
+## NEO Retro Coding Compo 2011
+
+- https://www.neoflash.com/go/index.php/2011/08/26/the-neo-retro-coding-compo-2011-is-closed-have-20-entries-total/
+
+## NEO Retro Coding Compo 2012
+
+- https://www.neoflash.com/go/index.php/2012/08/22/the-neo-retro-coding-compo-2012-is-closed-have-31-entries-total/
 
 ## PSP Homebrew Game Competition 2013
 
