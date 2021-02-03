@@ -26,8 +26,10 @@ The EBOOT file and its immediate contents must be placed at the root of the arch
 		1. 'IrDA ': game/app supports or requires an infrared device.
 1. **Creator** field:
 	1. Where both the real names and nicknames of a creator are known, prefer real names (as those tend to change less often).
+	1. If the game/app is a port, enter the name of the creator of the PSP port.
 1. **Date**:
 	1. When main version of the game/app (i.e., the most recent one included in the item) was released. If the game/app was previously unreleased, leave it blank. 
+	1. If the game/app is a port, enter the date when the port was released.
 1. **Language**:
 	1. Only if a language other than English, leave blank otherwise.
 1. **License**:
