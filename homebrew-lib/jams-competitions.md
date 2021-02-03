@@ -147,7 +147,8 @@
 
 ## Scenery Beta 2009 International Homebrew Showcase
 
-- https://www.scenebeta.com/noticia/scenery-beta-2009-international-homebrew-showcase-0
+- https://www.scenebeta.com/noticia/participantes-scenery-beta-2009
+- https://www.scenebeta.com/noticia/ganadores-scenery-beta-2009
 
 ## Homebrew Idol 3 (2010)
 
@@ -155,7 +156,8 @@
 
 ## Scenery Beta 2010 International Homebrew Showcase
 
-- https://www.scenebeta.com/noticia/scenery-beta-2010-international-homebrew-showcase-rules
+- https://www.scenebeta.com/noticia/participantes-scenery-beta-2010
+- https://www.scenebeta.com/noticia/ganadores-scenery-beta-2010
 
 ## NEO Retro Coding Compo 2010
 
@@ -168,15 +170,18 @@
 
 ## Scenery Beta 2011 International Homebrew Showcase
 
-- https://www.scenebeta.com/noticia/scenery-beta-2011-international-homebrew-showcase-rules
+- https://www.scenebeta.com/noticia/participantes-scenery-beta-2011
+- https://www.scenebeta.com/noticia/ganadores-scenery-beta-2011
 
 ## NEO Retro Coding Compo 2011
 
 - https://www.neoflash.com/go/index.php/2011/08/26/the-neo-retro-coding-compo-2011-is-closed-have-20-entries-total/
+- https://www.neoflash.com/go/index.php/2011/09/18/the-neo-retro-coding-compo-2011-final-result/
 
 ## NEO Retro Coding Compo 2012
 
 - https://www.neoflash.com/go/index.php/2012/08/22/the-neo-retro-coding-compo-2012-is-closed-have-31-entries-total/
+- https://www.neoflash.com/go/index.php/2012/09/10/the-final-result-of-neo-retro-coding-compo-2012/
 
 ## PSP Homebrew Game Competition 2013
 
