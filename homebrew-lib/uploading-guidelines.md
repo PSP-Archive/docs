@@ -13,8 +13,7 @@ The EBOOT file and its immediate contents must be placed at the root of the arch
 1. **Page Title**:
 	1. Only include the name of the homebrew. Version numbers belong in their own field (see below).
 1. **Subject Tags**:
-	1. Pick one among 'game', 'application', 'emulator', 'demo', 'port'. Additional tags can be added where deeded relevant by the uploader. 
-	- 'Ports' typically require files from the original game to work. 'Games' may be based on a previous game, but the assets are created anew. 
+	1. Pick one among 'game', 'application', 'emulator', 'demo'. Additional tags can be added where deeded relevant by the uploader. 
 	1. If a game participated in a competition (e.g. the NEO 2008 competition), add the relevant tag.
 	1. **Support tags**:
 		1. '1.50 FW only': if the game works on firmware 1.50, but not on any other version (even by using eLoader).
@@ -31,9 +30,10 @@ The EBOOT file and its immediate contents must be placed at the root of the arch
 	1. When main version of the game/app (i.e., the most recent one included in the item) was released. If the game/app was previously unreleased, leave it blank. 
 	1. If the game/app is a port, enter the date when the port was released.
 1. **Language**:
-	1. Only if a language other than English, leave blank otherwise.
+	1. Only if a language other than English, leave blank otherwise. Only one language can be entered, so also leave it blank if multiple languages are supported. 
 1. **License**:
 	1. Only add if the game/app does mention a license within its content, and the license is available among the dropdown options - leave blank otherwise.
 1. Additional metadata:
 	1. **Version**: Add a custom field named 'version' whenever a version number is available. This will make it easier to keep the most recent version as the main one. 
 	- If multiple versions are available: add older versions in an "Old Versions" folder within the main item (as separate 7z files).
+	1. **Support-author**: a link to the PayPal, Patreon, Twitch or other payment page connected to the author of the homebrew. 
