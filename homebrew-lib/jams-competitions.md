@@ -7,6 +7,10 @@
 - https://web.archive.org/web/20051223225608/http://psp-news.dcemu.co.uk/psp30codingcomp.shtml
 - http://psp-news.dcemu.co.uk/psp-news-amp-lik-sang-30-day-coding-competition-winner-announced-13923.html
 
+## PSPUpdates Homebrew Contest (2005)
+
+- https://web.archive.org/web/20051211145509/http://pspupdates.qj.net:80/2005/09/pspupdates-homebrew-contest-voting.html
+
 ## PSP 30 Day Coding Competition #2 (2005-2006)
 
 - https://web.archive.org/web/20140810015430/http://psp-news.dcemu.co.uk/psp-30-day-coding-competition-2-winner-announced-17345.html
@@ -25,6 +29,7 @@
 ## NEO Summer Coding Compo 2006
 
 - https://www.neoflash.com/forum/index.php?topic=3050.0
+- https://www.neoflash.com/forum/index.php?topic=3149.0
 
 ## PSP NEWS & Lik Sang 15 Day Lua Coding Comp (2006)
 
@@ -44,6 +49,10 @@
 
 - https://web.archive.org/web/20170613200959/http://www.pspsource.de/news.php?extend.1398
 - https://web.archive.org/web/20070102225853/http://www.planet-playstation.de/?article=4701
+
+## XtreamLua/Gx-mod Lua contest (2006)
+
+- https://web.archive.org/web/20061216092742/http://pspupdates.qj.net:80/XtreamLua-Gx-mod-Lua-contest-finalists-Game-Pack-1-/pg/49/aid/75230
 
 ## PSP-Hacks Homebrew Competition (2007)
 
@@ -81,31 +90,44 @@
 ## Gx-mod/XtreamLua 2007 contest
 
 - http://psp-news.dcemu.co.uk/-gx-mod-xtreamlua-2007-contest-25-homebrews-released-67513.html
+- https://web.archive.org/web/20071011111328/http://xtreamlua.com/modules.php?name=News&file=article&sid=237
 
 ## NEO Spring Coding Compo 2008 
 
-- https://www.neoflash.com/forum/index.php?board=110.0
+- https://www.neoflash.com/forum/index.php?topic=5002.0
+- https://www.neoflash.com/forum/index.php?topic=5080.0
 
 ## Neo Summer Coding Compo 2008
 
-- https://www.neoflash.com/forum/index.php?board=109.0
+- https://www.neoflash.com/go/index.php/2008/08/22/neo-summer-coding-compo-2008-is-closed-have-67-entries-total/
+- https://www.neoflash.com/go/index.php/2008/09/15/neo-summer-coding-compo-2008-coding-a-review-final-winner-result/
 
 ## PSPUpdates Summer Homebrew Contest (2008)
 
 - https://web.archive.org/web/20080801043137/https://qj.net/QJ-NET-kicks-off-the-PSPUpdates-Summer-Homebrew-Contest/pg/49/aid/122483
+- https://web.archive.org/web/20080916050117/http://pspupdates.qj.net:80/VOTING-OPEN-QJ-Summer-Homebrew-Contest/pg/49/aid/124000
+- https://web.archive.org/web/20080923113618/http://pspupdates.qj.net:80/Winner-of-the-PSP-Updates-Summer-Brew-Contest-is-/pg/49/aid/124232
 
 ## Scenery Beta 2008 International Homebrew Showcase
 
+- https://www.scenebeta.com/noticia/participantes-scenery-beta-2008
 - https://www.scenebeta.com/noticia/final-results-scenery-beta-2008
+
+## Homebrew Idol (2008)
+
+- https://web.archive.org/web/20081216012108/http://www.psp-hacks.com/tag/homebrew-idol/
 
 ## 1000$ pour la scène (2008-2009)
 
-- https://gamergen.com/actualites/concours-developpement-1000-pour-scene-lancement-officiel-24321-1
-- https://gamergen.com/actualites/1000-pour-scene-grand-prix-jury-38403-1
+- https://gamergen.com/actualites/concours-dev-1000-pour-scene-liste-officielle-37811-1
+- https://web.archive.org/web/20090224140151/http://www.pspgen.com:80/1000-pour-scene-gagnant-jeu-lua-actualite-185719.html
+- https://web.archive.org/web/20130129054442/http://www.pspgen.com:80/1000-pour-scene-gagnant-jeu-c-actualite-185723.html
+- https://web.archive.org/web/20121126155919/http://www.pspgen.com:80/1000-pour-scene-gagnant-pour-categorie-utilitaire-actualite-186017.html
 
 ## NEO Spring Coding Compo 2009
 
-- https://www.neoflash.com/forum/index.php?board=118.0
+- https://www.neoflash.com/forum/index.php?topic=5570.0
+- https://www.neoflash.com/forum/index.php?topic=5608.0
 
 ## NEO Summer Coding Compo 2009
 
@@ -144,7 +166,8 @@
 
 ## PSP Homebrew Game Competition 2013
 
-- https://wololo.net/talk/viewtopic.php?t=35137
+- https://web.archive.org/web/20141202131238/http://www.dashhacks.com/psp/dashhacks-contests/psp-homebrew-game-competition-2013-you-decide-the-best-psp-homebrew-of-2013/page-2.html
+- https://web.archive.org/web/20150615062838/http://www.dashhacks.com/psp/dashhacks-contests/psp-homebrew-game-competition-2013-vote-now-for-the-best-psp-homebrew-game-of-2013/page-3.html
 
 ## PSP Awakening Game Jam 2020
 
