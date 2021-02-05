@@ -1,0 +1,47 @@
+Work on metadata
+
+1. Set media type:
+	mediatype:software (for every single item)
+
+2. Correct case for this tag:
+	psp homebrew -> PSP homebrew
+	
+3. Remove 'port' as a subject:
+	subject:port -> subject:game
+	
+4. Establish separate metadata type for game genres:
+	subject:visual novel -> genre:visual novel
+	subject:shooter -> genre:shooter
+	subject:firmware downgrader -> genre:firmware downgrader
+	subject:shell -> genre:shell
+	
+5. Remove 'category' as metadata (no replacement).
+	category:[whatever] -> [nothing]
+	
+6. Establish separate metadata type for competitions:
+
+6a. Remove all existing competition tags:
+
+	subject:NEO Summer Coding Compo 2006 -> [nothing]
+	subject:GBAX 2007 Coding Competition -> [nothing]
+	subject:NEO spring coding contest 2006 for PSP APPs -> [nothing]
+	subject:PSP Awakening Game Jam 2020 -> [nothing]
+	subject:PSPUpdates Homebrew Contest (2005)  -> [nothing]
+	subject:PSP NEWS & Lik Sang 15 Day Lua Coding Comp (2006) -> [nothing]
+	subject:PSP NEWS & Lik Sang 30 Day Coding Comp (2005) -> [nothing]
+	subject:PS2DEV The Fourth Creation 2006 -> [nothing]
+	subject:QJ.NET and Lik-sang Summer Homebrew Competition (2006) -> [nothing]
+	subject:2020 PSP Halloween Game Jam -> [nothing]
+	subject:PSP 30 Day Coding Competition #2 (2005-2006) -> [nothing]
+	subject:PSP3D.com Homebrew Contest (2006) -> [nothing]
+	subject:PSPSource.de LUA Coding Competition 2006 -> [nothing]
+
+6b. Tag items according to the spreadsheet - https://docs.google.com/spreadsheets/d/1JqOYCV3jG-_ylpcSuPKXVYlhoWfiauJyYQgm6qPdu6M/edit?usp=sharing
+
+	game-jam:SuperCool Game Compo Deluxe 2021
+	
+7. Establish separate metadata type for accessories:
+
+	subject:IrDA -> accessory:IrDA
+	subject:Go!Cam -> accessory:Go!Cam
+	subject:Go!Explore -> accessory:Go!Explore	
