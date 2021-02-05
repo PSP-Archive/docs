@@ -34,6 +34,6 @@ The EBOOT file and its immediate contents must be placed at the root of the arch
 1. **License**:
 	1. Only add if the game/app does mention a license within its content, and the license is available among the dropdown options - leave blank otherwise.
 1. Additional metadata:
-	1. **Version**: Add a custom field named 'version' whenever a version number is available. This will make it easier to keep the most recent version as the main one. 
+	1. **version**: Add a custom field named 'version' whenever a version number is available. This will make it easier to keep the most recent version as the main one. 
 	- If multiple versions are available: add older versions in an "Old Versions" folder within the main item (as separate 7z files).
-	1. **Support-author**: a link to the PayPal, Patreon, Twitch or other payment page connected to the author of the homebrew. 
+	1. **support-author**: a link to the PayPal, Patreon, Twitch or other payment page connected to the author of the homebrew. 
