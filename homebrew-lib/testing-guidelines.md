@@ -32,9 +32,13 @@ To add new homebrews to the PSP collection:
 	
 # Notes
 
-- Magnet link for the Torrent containing the homebrews recovered so far:
+- Magnet links for Torrents containing the homebrews recovered so far:
 
 ```magnet:?xt=urn:btih:dfab696684bc32e76bcfddc300c0ab75a9af280b&dn=PSP%20Homebrew%20Archival%20Project&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fwambo.club%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.dutchtracking.com%3a6969%2fannounce&tr=udp%3a%2f%2ftc.animereactor.ru%3a8082%2fannounce&tr=udp%3a%2f%2ftracker.justseed.it%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce```
+
+```magnet:?xt=urn:btih:c6e237f787a3ca5b87ae5b98e436e2a5e89917f3&dn=MobyWare&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f3rt.tace.ru%3a60889%2fannounce&tr=http%3a%2f%2f5rt.tace.ru%3a60889%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2f47.ip-51-68-199.eu%3a6969%2fannounce&tr=udp%3a%2f%2ftracker2.itzmx.com%3a6961%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.ds.is%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=http%3a%2f%2ftracker4.itzmx.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce```
+
+```magnet:?xt=urn:btih:741788b659badd94f4ecca59dcabf12b150d077f&dn=psp.scenebeta.com&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f3rt.tace.ru%3a60889%2fannounce&tr=http%3a%2f%2f5rt.tace.ru%3a60889%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2f47.ip-51-68-199.eu%3a6969%2fannounce&tr=udp%3a%2f%2ftracker2.itzmx.com%3a6961%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.ds.is%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=http%3a%2f%2ftracker4.itzmx.com%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce```
 
 Inside those files there will be  a lot a trash data or duplicates, here are what you will need to MARK AS TRASH:	
 	

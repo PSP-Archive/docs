@@ -16,6 +16,10 @@ Where the source code is still available, attempts can be made to get the games 
 
 Some apps will not work because they depend on a service that is no longer active (e.g. a client for the now defunct MSN Messenger service). In this case the app is not considered broken - it has served its purpose, and will be retained in the Library for its historic value.
 
+### eLoader
+
+[eLoader](https://archive.org/details/eLoader.7z) is an application to launch older homebrew games and apps on modern firmwares. Because the eLoader itself has not been updated in a while, it might also fail. It is nevertheless useful as a last resort.
+
 ### PSP-1000 (or 'PHAT' models)
 
 The PSP-1000 (the first one to be released) is the only PSP model to have only 32Mb of memory. Some homebrew developers choose to not support this version for their release, to take full advantage of the extra memory available in later models. Such released are tagged with 'PSP-2000+ only' within the PSP Homebrew Library.
