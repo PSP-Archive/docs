@@ -82,6 +82,7 @@
 
 - https://web.archive.org/web/20070521203210/http://pxp.thayer-remodeling.com/forums/
 - https://web.archive.org/web/20070308193544/http://pxp.thayer-remodeling.com/forums/forumdisplay.php?f=20
+- https://web.archive.org/web/20070602122812/http://jparishy.com/wp/2007/03/28/we-have-a-winner/
 
 ## GBAX 2007 Coding Competition
 

@@ -18,6 +18,7 @@ The EBOOT file and its immediate contents must be placed at the root of the arch
 	1. **Support tags**:
 		1. '1.50 FW only': if the game works on firmware 1.50, but not on any other version (even by using eLoader).
 		1. 'PSP-2000+ only': if the game won't work on a PSP-1000 model.
+		1. 'eLoader required': if the game won't boot without it.
 		1. 'not working': if the game will not work on real hardware (on any firmware), but it is still retained for its historical value. This applies even if it does work on PPSSPP or another emulator.
 	1. **Accessory tags**:
 		1. 'Go!Cam': game supports or requires the PSP camera.
