@@ -164,6 +164,11 @@
 
 - https://www.neoflash.com/go/index.php/2010/08/22/the-neo-retro-coding-compo-2010-is-closed-have-52-entries-total/
 
+## XtreamContest Winter Session 2010/2011
+
+- https://web.archive.org/web/20110209113749/http://www.xtreamlua.com:80/forums/viewtopic.php?f=13&t=5838
+- https://twitter.com/XtreamLua/status/49585616396107776
+
 ## PSP Genesis competition 2011
 
 - https://wololo.net/talk/viewforum.php?f=25&sid=3c4483163ef6dad4835e9093619dfa3f
@@ -178,6 +183,11 @@
 
 - https://www.neoflash.com/go/index.php/2011/08/26/the-neo-retro-coding-compo-2011-is-closed-have-20-entries-total/
 - https://www.neoflash.com/go/index.php/2011/09/18/the-neo-retro-coding-compo-2011-final-result/
+
+## XTream Contest Summer Edition 2011
+
+- https://gamergen.com/actualites/xtc-2011-resultats-enfin-devoiles-51885-1
+- https://web.archive.org/web/20120521140256/http://www.xtreamlua.com/forums/viewforum.php?f=156
 
 ## NEO Retro Coding Compo 2012
 
