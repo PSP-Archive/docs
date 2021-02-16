@@ -16,6 +16,10 @@ Where the source code is still available, attempts can be made to get the games 
 
 Some apps will not work because they depend on a service that is no longer active (e.g. a client for the now defunct MSN Messenger service). In this case the app is not considered broken - it has served its purpose, and will be retained in the Library for its historic value.
 
+### LEDA - Legacy Software Loader
+
+[leda](https://github.com/PSP-Archive/leda/releases/tag/old) is a plugin designed to provide compatibility with legacy software. Copy `leda.prx` to the SEPLUGINS folder of your memory stick, and enable it inside the GAME.TXT and VSH.txt files: open them with a text editor and type `ms0:/seplugins/leda.prx 1` to enable the plugin.
+
 ### eLoader
 
 [eLoader](https://archive.org/details/eLoader.7z) is an application to launch older homebrew games and apps on modern firmwares. Because the eLoader itself has not been updated in a while, it might also fail. It is nevertheless useful as a last resort.
