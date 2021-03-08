@@ -10,4 +10,3 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - Kramer's Lua Demo (author unknown)
 - Maze Thing (author unknown)
 - NoName by Mc99
-- RosettaShard by foebea

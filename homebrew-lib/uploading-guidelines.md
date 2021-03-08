@@ -27,7 +27,7 @@ The EBOOT file and its immediate contents must be placed at the root of the arch
 		1. 'Neo Motion Kit': unofficial motion kit accessory used by some homebrews.
 1. **Creator** field:
 	1. Where both the real names and nicknames of a creator are known, prefer real names (as those tend to change less often).
-	1. If the game/app is a port, enter the name of the creator of the PSP port.
+	1. If the game/app is a port, enter the name of the creator of the PSP port. This is because the same game might have been ported several times by different people.
 1. **Date**:
 	1. When main version of the game/app (i.e., the most recent one included in the item) was released. If the game/app was previously unreleased, leave it blank. 
 	1. If the game/app is a port, enter the date when the port was released.
