@@ -20,6 +20,8 @@ Some apps will not work because they depend on a service that is no longer activ
 
 [leda](https://github.com/PSP-Archive/leda/releases/tag/old) is a plugin designed to provide compatibility with legacy software. Copy `leda.prx` to the SEPLUGINS folder of your memory stick, and enable it inside the GAME.TXT and VSH.txt files: open them with a text editor and type `ms0:/seplugins/leda.prx 1` to enable the plugin.
 
+This plugin only works with the LME custom firmware. It will not work on the Pro custom firmware.
+
 ### eLoader
 
 [eLoader](https://archive.org/details/eLoader.7z) is an application to launch older homebrew games and apps on modern firmwares. Because the eLoader itself has not been updated in a while, it might also fail. It is nevertheless useful as a last resort.
