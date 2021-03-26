@@ -54,6 +54,11 @@
 
 - https://web.archive.org/web/20061216092742/http://pspupdates.qj.net:80/XtreamLua-Gx-mod-Lua-contest-finalists-Game-Pack-1-/pg/49/aid/75230
 
+## DCEmu`s Dream Coding Grand Prix 2006
+
+- Cancelled.
+- https://web.archive.org/web/20090319054329/http://www.dcemu.co.uk/dcgp2006.shtml
+
 ## PSP-Hacks Homebrew Competition (2007)
 
 - https://web.archive.org/web/20070607135618/http://www.psp-hacks.com/forums/about91472.html
