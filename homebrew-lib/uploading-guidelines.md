@@ -39,3 +39,13 @@ The EBOOT file and its immediate contents must be placed at the root of the arch
 	1. **version**: Add a custom field named 'version' whenever a version number is available. This will make it easier to keep the most recent version as the main one. 
 	- If multiple versions are available: add older versions in an "Old Versions" folder within the main item (as separate 7z files).
 	1. **support-author**: a link to the PayPal, Patreon, Twitch or other payment page connected to the author of the homebrew. 
+	
+## Preview videos
+
+Inclusion is completely arbitrary - adding them for every homebrew would require too much time.
+
+Specifications:
+
+- Must be under 1Mb, and about 10 seconds long.
+- Audio: 64k AAC, mono
+- Video: 600k AVC, PSP resolution (480x272)
