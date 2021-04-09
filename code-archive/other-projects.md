@@ -33,16 +33,16 @@ As the source code for these projects is already being preserved, they will not 
 - [FBA4PSPmod](https://github.com/rereprep/FBA4PSPmod) - Final Burn Alpha
 - [Fuse PSP](https://github.com/8bitpsp/fuse) - ZX Spectrum emulator
 - [Handy PSP](https://github.com/8bitpsp/handy) - Atari Lynx emulator
-- [NJEMU](https://github.com/phoe-nix/NJEMU) - CPS1, CPS2, NeoGeo MVS and NCDZ (CD) emulators
-- [NeoPop PSP](https://github.com/8bitpsp/neopop) - Neo-Geo Pocket, Pocket Color emulator
+- [NJEMU](https://github.com/phoe-nix/NJEMU) - CPS1, CPS2, Neo-Geo MVS and NCDZ (CD) emulators
+- [NeoPop PSP](https://github.com/8bitpsp/neopop) - Neo-Geo Pocket/Pocket Color emulator
 - [NooDS-PSP](https://github.com/Xiro28/NooDS-PSP) - Nintendo DS emulator
 - [PSP-RIN](https://github.com/mbarczak/psp_rin) - GameBoy/GameBoy Color emulator
 - [PSPUAE](https://github.com/HoraceAndTheSpider/PSPUAE) - Amiga emulator
-- [Picodrive](https://github.com/pumpkinlink/picodrive) - Sega Genesis/MegaDrive, MasterSystem/GameGear, Sega CD and 32X emulator; archive of robson-alcantara's fork
+- [Picodrive](https://github.com/pumpkinlink/picodrive) - Sega Genesis/Mega Drive, Master System/Game Gear, Sega CD and 32X emulator; archive of robson-alcantara's fork
 - [PlutoBoy](https://github.com/RossMeikleham/PlutoBoy) - GameBoy/GameBoy Color emulator
 - [Potator PSP](https://github.com/infval/potator-psp-akop) - Watara Supervision emulator
-- [RACE! PSP](https://github.com/8bitpsp/race) - Neo-Geo Pocket, Pocket Color emulator
-- [SMS Plus PSP](https://github.com/8bitpsp/smsplus) - Sega Master System and Game Gear emulator
+- [RACE! PSP](https://github.com/8bitpsp/race) - Neo-Geo Pocket/Pocket Color emulator
+- [SMS Plus PSP](https://github.com/8bitpsp/smsplus) - Sega Master System/Game Gear emulator
 - [TempGBA4PSP-mod](https://github.com/phoe-nix/TempGBA4PSP-mod) - GameBoy Advance emulator
 - [VICE PSP](https://github.com/8bitpsp/vice) - C64 emulator
 - [Vice PSP](https://github.com/rsn8887/pspvice) - C64 emulator
@@ -68,6 +68,6 @@ As the source code for these projects is already being preserved, they will not 
 - [Aleph One](https://github.com/Aleph-One-Marathon/alephone-psp)
 - [MegaZeux](https://github.com/AliceLR/megazeux/)
 - [OpenBOR](https://github.com/DCurrent/openbor)
-- [OpenLara](https://github.com/XProger/OpenLara/releases/tag/20180524)
+- [OpenLara](https://github.com/XProger/OpenLara/releases/tag/20180524) - Classic Tomb Raider
 - [ScummVM](https://github.com/rsn8887/scummvm/releases/tag/2.1.0git-rsn8887.30)
 - [Super Mario 64 Port](https://github.com/z2442/sm64-port)
