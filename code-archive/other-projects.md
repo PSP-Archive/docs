@@ -33,6 +33,7 @@ As the source code for these projects is already being preserved, they will not 
 - [FBA4PSPmod](https://github.com/rereprep/FBA4PSPmod) - Final Burn Alpha (Psikyo core) Emulator.
 - [Fuse PSP](https://github.com/8bitpsp/fuse) - Sinclair ZX Spectrum Emulator.
 - [Handy PSP](https://github.com/8bitpsp/handy) - Atari Lynx Emulator.
+- [Monkey64](https://github.com/TheMrIron2/Monkey64) - Nintendo 64 Emulator.
 - [NJEMU](https://github.com/phoe-nix/NJEMU) - CPS1, CPS2, NeoGeo MVS and NeoGeo CDZ(CD) Emulator.
 - [NeoPop PSP](https://github.com/8bitpsp/neopop) - SNK NeoGeo Pocket / NeoGeo Pocket Color Emulator.
 - [NooDS-PSP](https://github.com/Xiro28/NooDS-PSP) - Nintendo DS Emulator.
@@ -54,10 +55,16 @@ As the source code for these projects is already being preserved, they will not 
 - [Battlegrounds 2](https://github.com/xfacter/battlegrounds2) - BG2 Game for PSP.
 - [Battlegrounds 3](https://github.com/xfacter/battlegrounds3) - BG3 Game for PSP.
 - [BlockOut II PSP](https://github.com/bomblik/BlockOut_II_PSP) - BlockOut ll Game for PSP.
+- [Cannonball-PSP](https://github.com/TheMrIron2/cannonball-PSP) - Cannonball for PSP.
 - [CSPSP](https://github.com/st1x51/CSPSP_ADQ) - CSPSP on ADQ Engine for PSP.
 - [Chocolate Doom](https://github.com/mwpenny/chocolate-doom-psp) - Doom port for PSP.
+- [Emblem of Fire](https://github.com/TheMrIron2/Emblem-of-Fire) - Emblem of Fire for PSP.
+- [Golden Eye](https://github.com/TheMrIron2/goldeneye-psp) - Golden Eye 007 (N64) for PSP.
+- [hnefatafl](https://github.com/TheMrIron2/hnefatafl-psp) - Hnefatafl Game for PSP.
 - [Minecraft-PSP](https://github.com/Woolio/Minecraft-PSP) - Minecraft for PSP.
 - [Nazi Zombies Portable Reboot](https://github.com/thyjukki/nzp-reboot/) - Call of Duty Zombies port for PSP.
+- [Perfect Dark Reloaded](https://github.com/TheMrIron2/Perfect-Dark-Reloaded) - Perfect Dark Realoaded for PSP.
+- [Project Enigma](https://github.com/TheMrIron2/project-enigma) - Project Enigma for PSP.
 - [PSPDoom](https://github.com/z2442/PSPDoom) - Doom port for PSP.
 - [Spaceboopers](https://github.com/nikp123/spaceboopers) - Spaceboopers Multiplayer Game for PSP.
 - [Spelunky](https://github.com/dbeef/spelunky-psp) - Spelunky Remake for PSP.
