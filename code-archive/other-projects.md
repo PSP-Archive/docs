@@ -27,19 +27,19 @@ As the source code for these projects is already being preserved, they will not 
 ## Emulation
 
 - [Atari800 PSP](https://github.com/8bitpsp/atari800) - Atari 800, 800XL, 130XE and 5200 emulator
-- [Caprice32 PSP](https://github.com/8bitpsp/caprice32) - Amstrad CPC emulator
+- [Caprice32 PSP](https://github.com/8bitpsp/caprice32) - Amstrad CPC/CPC464 emulator
 - [DaedalusX64](https://github.com/DaedalusX64/daedalus) - Nintendo 64 emulator
 - [DeSmuME PSP](https://github.com/themriron2/desmume-psp) - Nintendo DS emulator
 - [FBA4PSPmod](https://github.com/rereprep/FBA4PSPmod) - Final Burn Alpha
 - [Fuse PSP](https://github.com/8bitpsp/fuse) - ZX Spectrum emulator
 - [Handy PSP](https://github.com/8bitpsp/handy) - Atari Lynx emulator
-- [NJEMU](https://github.com/phoe-nix/NJEMU) - CPS1, CPS2 and NeoGeo (CD) emulators
+- [NJEMU](https://github.com/phoe-nix/NJEMU) - CPS1, CPS2, NeoGeo MVS and NCDZ (CD) emulators
 - [NeoPop PSP](https://github.com/8bitpsp/neopop) - Neo-Geo Pocket, Pocket Color emulator
 - [NooDS-PSP](https://github.com/Xiro28/NooDS-PSP) - Nintendo DS emulator
-- [PSP-RIN](https://github.com/mbarczak/psp_rin) - GameBoy emulator
+- [PSP-RIN](https://github.com/mbarczak/psp_rin) - GameBoy/GameBoy Color emulator
 - [PSPUAE](https://github.com/HoraceAndTheSpider/PSPUAE) - Amiga emulator
-- [Picodrive](https://github.com/pumpkinlink/picodrive) - Sega Genesis emulator; archive of robson-alcantara's fork
-- [PlutoBoy](https://github.com/RossMeikleham/PlutoBoy) - GameBoy emulator
+- [Picodrive](https://github.com/pumpkinlink/picodrive) - Sega Genesis/MegaDrive, MasterSystem/GameGear, Sega CD and 32X emulator; archive of robson-alcantara's fork
+- [PlutoBoy](https://github.com/RossMeikleham/PlutoBoy) - GameBoy/GameBoy Color emulator
 - [Potator PSP](https://github.com/infval/potator-psp-akop) - Watara Supervision emulator
 - [RACE! PSP](https://github.com/8bitpsp/race) - Neo-Geo Pocket, Pocket Color emulator
 - [SMS Plus PSP](https://github.com/8bitpsp/smsplus) - Sega Master System and Game Gear emulator
