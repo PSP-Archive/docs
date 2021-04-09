@@ -42,7 +42,7 @@ As the source code for these projects is already being preserved, they will not 
 - [PlutoBoy](https://github.com/RossMeikleham/PlutoBoy) - Nintendo GameBoy / GameBoy Color Emulator.
 - [Potator PSP](https://github.com/infval/potator-psp-akop) - Watara Supervision Emulator.
 - [RACE! PSP](https://github.com/8bitpsp/race) - SNK NeoGeo Pocket / NeoGeo Pocket Color Emulator.
-- [SMSPlus PSP](https://github.com/8bitpsp/smsplus) - SEGA MasterSystem / GameGear and SG-1000 (Rename <code>.sg</code>««»»<code>.sms</code>) Emulators.
+- [SMSPlus PSP](https://github.com/8bitpsp/smsplus) - SEGA MasterSystem / GameGear and SG-1000 (Rename <code>.sg</code>«»<code>.sms</code>) Emulators.
 - [TempGBA4PSP-mod](https://github.com/phoe-nix/TempGBA4PSP-mod) - Nintendo GameBoy Advance Emulator.
 - [VICE PSP](https://github.com/8bitpsp/vice) - Commodore 64 Emulator.
 - [VICE-PSP](https://github.com/rsn8887/pspvice) - Commodore 64 Emulator.
@@ -61,7 +61,7 @@ As the source code for these projects is already being preserved, they will not 
 - [PSPDoom](https://github.com/z2442/PSPDoom) - Doom port for PSP.
 - [Spaceboopers](https://github.com/nikp123/spaceboopers) - Spaceboopers Multiplayer Game for PSP.
 - [Spelunky](https://github.com/dbeef/spelunky-psp) - Spelunky Remake for PSP.
-- [Wolf3D-PSP](https://github.com/BenMcLean/Wolf3D-PSP) - Wolfenstein 3D for PSP.
+- [Wolf3D-PSP](https://github.com/BenMcLean/Wolf3D-PSP) - Wolfenstein 3D port for PSP.
 
 ## Game Engines
 
