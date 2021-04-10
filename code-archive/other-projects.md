@@ -42,6 +42,7 @@ As the source code for these projects is already being preserved, they will not 
 - [PicoDrive](https://github.com/pumpkinlink/picodrive) - SEGA Genesis/MegaDrive, MasterSystem/GameGear, Sega CD/Mega CD and 32X Emulators. ; archive of robson-alcantara's fork
 - [PlutoBoy](https://github.com/RossMeikleham/PlutoBoy) - Nintendo GameBoy / GameBoy Color Emulator.
 - [Potator PSP](https://github.com/infval/potator-psp-akop) - Watara Supervision Emulator.
+- [PX68k](https://github.com/hissorii/px68k) - Sharp X68000 Emulator.
 - [RACE! PSP](https://github.com/8bitpsp/race) - SNK NeoGeo Pocket / NeoGeo Pocket Color Emulator.
 - [SMSPlus PSP](https://github.com/8bitpsp/smsplus) - SEGA MasterSystem / GameGear and SG-1000 (Rename <code>.sg</code>«»<code>.sms</code>) Emulators.
 - [TempGBA4PSP-mod](https://github.com/phoe-nix/TempGBA4PSP-mod) - Nintendo GameBoy Advance Emulator.
@@ -62,6 +63,7 @@ As the source code for these projects is already being preserved, they will not 
 - [Golden Eye](https://github.com/TheMrIron2/goldeneye-psp) - Golden Eye 007 (N64) for PSP.
 - [hnefatafl](https://github.com/TheMrIron2/hnefatafl-psp) - Hnefatafl Game for PSP.
 - [Minecraft-PSP](https://github.com/Woolio/Minecraft-PSP) - Minecraft for PSP.
+- [MC-PSP](https://github.com/IridescentRose/MC-PSP) - Minecraft for PSP.
 - [Nazi Zombies Portable Reboot](https://github.com/thyjukki/nzp-reboot/) - Call of Duty Zombies port for PSP.
 - [Perfect Dark Reloaded](https://github.com/TheMrIron2/Perfect-Dark-Reloaded) - Perfect Dark Realoaded for PSP.
 - [Project Enigma](https://github.com/TheMrIron2/project-enigma) - Project Enigma for PSP.
