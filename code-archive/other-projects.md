@@ -35,6 +35,7 @@ As the source code for these projects is already being preserved, they will not 
 - [Fuse PSP](https://github.com/8bitpsp/fuse) - Sinclair ZX Spectrum Emulator.
 - [Handy PSP](https://github.com/8bitpsp/handy) - Atari Lynx Emulator.
 - [Monkey64](https://github.com/TheMrIron2/Monkey64) - Nintendo 64 Emulator.
+- [Nesterj AoEX r3-mod](https://github.com/rinrin-/NesterJ_AoEX_R3) - Nintendo NES Emulator.
 - [NJEMU](https://github.com/phoe-nix/NJEMU) - CPS1, CPS2, NeoGeo MVS and NeoGeo CDZ(CD) Emulator.
 - [NeoPop PSP](https://github.com/8bitpsp/neopop) - SNK NeoGeo Pocket / NeoGeo Pocket Color Emulator.
 - [NooDS-PSP](https://github.com/Xiro28/NooDS-PSP) - Nintendo DS Emulator.
