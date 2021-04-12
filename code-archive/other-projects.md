@@ -34,6 +34,7 @@ As the source code for these projects is already being preserved, they will not 
 - [fceupsp](https://github.com/phoe-nix/fceupsp) - Nintendo NES Emulator.
 - [Fuse PSP](https://github.com/8bitpsp/fuse) - Sinclair ZX Spectrum Emulator.
 - [Handy PSP](https://github.com/8bitpsp/handy) - Atari Lynx Emulator.
+- [MasterBoy](https://github.com/wodim/MasterBoy) - Nintendo GameBoy / GameBoy Color and SEGA MasterSystem / GameGear Emulators.
 - [Monkey64](https://github.com/TheMrIron2/Monkey64) - Nintendo 64 Emulator.
 - [Nesterj AoEX r3-mod](https://github.com/rinrin-/NesterJ_AoEX_R3) - Nintendo NES Emulator.
 - [NJEMU](https://github.com/phoe-nix/NJEMU) - CPS1, CPS2, NeoGeo MVS and NeoGeo CDZ(CD) Emulator.
