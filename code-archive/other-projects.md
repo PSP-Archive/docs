@@ -31,6 +31,7 @@ As the source code for these projects is already being preserved, they will not 
 - [DaedalusX64](https://github.com/DaedalusX64/daedalus) - Nintendo 64 Emulator.
 - [DeSmuME PSP](https://github.com/themriron2/desmume-psp) - Nintendo DS Emulator.
 - [FBA4PSPmod](https://github.com/rereprep/FBA4PSPmod) - Final Burn Alpha (Psikyo core) Emulator.
+- [fceupsp](https://github.com/phoe-nix/fceupsp) - Nintendo NES Emulator.
 - [Fuse PSP](https://github.com/8bitpsp/fuse) - Sinclair ZX Spectrum Emulator.
 - [Handy PSP](https://github.com/8bitpsp/handy) - Atari Lynx Emulator.
 - [Monkey64](https://github.com/TheMrIron2/Monkey64) - Nintendo 64 Emulator.
