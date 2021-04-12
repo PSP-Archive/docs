@@ -42,6 +42,7 @@ As the source code for these projects is already being preserved, they will not 
 - [PicoDrive](https://github.com/pumpkinlink/picodrive) - SEGA Genesis/MegaDrive, MasterSystem/GameGear, Sega CD/Mega CD and 32X Emulators. ; archive of robson-alcantara's fork
 - [PlutoBoy](https://github.com/RossMeikleham/PlutoBoy) - Nintendo GameBoy / GameBoy Color Emulator.
 - [Potator PSP](https://github.com/infval/potator-psp-akop) - Watara Supervision Emulator.
+- [Pspkvm](https://github.com/vadosnaprimer/pspkvm) - j2me Emulator.
 - [PX68k](https://github.com/hissorii/px68k) - Sharp X68000 Emulator.
 - [RACE! PSP](https://github.com/8bitpsp/race) - SNK NeoGeo Pocket / NeoGeo Pocket Color Emulator.
 - [SMSPlus PSP](https://github.com/8bitpsp/smsplus) - SEGA MasterSystem / GameGear and SG-1000 (Rename <code>.sg</code>«»<code>.sms</code>) Emulators.
