@@ -33,6 +33,8 @@ As the source code for these projects is already being preserved, they will not 
 - [FBA4PSPmod](https://github.com/rereprep/FBA4PSPmod) - Final Burn Alpha (Psikyo core) Emulator.
 - [fceupsp](https://github.com/phoe-nix/fceupsp) - Nintendo NES Emulator.
 - [Fuse PSP](https://github.com/8bitpsp/fuse) - Sinclair ZX Spectrum Emulator.
+- [gpSP](https://github.com/BASLQC/gPSP) - Nintendo GBA Emulator.
+- [gpSP-mod](https://github.com/BASLQC/gPSP-mod) - Nintendo GBA Emulator.
 - [Handy PSP](https://github.com/8bitpsp/handy) - Atari Lynx Emulator.
 - [MasterBoy](https://github.com/wodim/MasterBoy) - Nintendo GameBoy / GameBoy Color and SEGA MasterSystem / GameGear Emulators.
 - [Monkey64](https://github.com/TheMrIron2/Monkey64) - Nintendo 64 Emulator.
@@ -53,6 +55,7 @@ As the source code for these projects is already being preserved, they will not 
 - [VICE PSP](https://github.com/8bitpsp/vice) - Commodore 64 Emulator.
 - [VICE-PSP](https://github.com/rsn8887/pspvice) - Commodore 64 Emulator.
 - [fMSX PSP](https://github.com/8bitpsp/fms) - MSX/ColecoVision Emulators.
+- [Snes9x Euphoria](https://github.com/BASLQC/snes9x-euphoria) - Nintendo SNES Emulator.
 - [Snes9xTYLme/cm-mod](https://github.com/esmjanus/snes9xTYL) - Nintendo SNES Emulator.
 
 ## Games
