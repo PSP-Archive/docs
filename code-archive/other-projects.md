@@ -28,6 +28,7 @@ As the source code for these projects is already being preserved, they will not 
 
 - [Atari800 PSP](https://github.com/8bitpsp/atari800) - Atari 800/800XL, 130XE and 5200 Emulators.
 - [Caprice32 PSP](https://github.com/8bitpsp/caprice32) - Amstrad CPC/CPC464 Emulator.
+- [Chip8_PSP](https://github.com/stacksta/chip8_psp) - Chip8 Emulator.
 - [DaedalusX64](https://github.com/DaedalusX64/daedalus) - Nintendo 64 Emulator.
 - [DeSmuME PSP](https://github.com/themriron2/desmume-psp) - Nintendo DS Emulator.
 - [FBA4PSPmod](https://github.com/rereprep/FBA4PSPmod) - Final Burn Alpha (Psikyo core) Emulator.
