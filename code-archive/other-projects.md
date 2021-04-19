@@ -30,7 +30,8 @@ As the source code for these projects is already being preserved, they will not 
 - [MElib](https://github.com/IridescentRose/MElib) - Library to easily offload tasks to the PSP Media Engine.
 - [OldSchool Library (OSLib) MODv2](https://github.com/dogo/oslibmodv2) - A 2D Graphics Library for PSP.
 - [VNPSP](https://github.com/liclac/VNPSP) - Visual Novel Interpreter for PSP, using the .VNDS format. 
-- [openTri](https://github.com/albe/openTri) - OpenTri Game Engine for PSP.
+- [OpenTri](https://github.com/albe/openTri) - OpenTri Game Engine for PSP.
+- [OpenTri(mirror)](https://github.com/SamRH/openTRI) - OpenTri Game Engine for PSP.
 - [psplib](https://github.com/0xe1f/psplib) - Homebrew Library for PSP.
 - [xlab](https://github.com/xfacter/xlab) - Xlab Game Engine for PSP.
 
@@ -80,7 +81,9 @@ As the source code for these projects is already being preserved, they will not 
 - [Colditz-esacpe](https://github.com/aperture-software/colditz-escape) - Amiga's "Escape From Colditz" ported to PSP.
 - [CSPSP](https://github.com/st1x51/CSPSP_ADQ) - CSPSP on ADQ Engine for PSP.
 - [Chocolate Doom](https://github.com/mwpenny/chocolate-doom-psp) - Doom port for PSP.
+- [DQuakeplus](https://github.com/st1x51/DQuakePlus) - Just another psp quake engine.
 - [Emblem of Fire](https://github.com/TheMrIron2/Emblem-of-Fire) - Emblem of Fire for PSP.
+- [galaxy-integration-psp](https://github.com/TBemme/galaxy-integration-psp) - PSP platform integration for Galaxy 2.0.
 - [gods-defense](https://github.com/dogo/gods-defense) - PSP Game - Gods Defense.
 - [Golden Eye](https://github.com/TheMrIron2/goldeneye-psp) - Golden Eye 007 (N64) for PSP.
 - [Hnefatafl](https://github.com/TheMrIron2/hnefatafl-psp) - Hnefatafl Game for PSP.
@@ -92,10 +95,13 @@ As the source code for these projects is already being preserved, they will not 
 - [psp-runner](https://github.com/dogo/psp-runner) - Simple PSP game.
 - [Perfect Dark Reloaded](https://github.com/TheMrIron2/Perfect-Dark-Reloaded) - Perfect Dark Realoaded for PSP.
 - [Project Enigma](https://github.com/TheMrIron2/project-enigma) - Project Enigma for PSP.
+- [PSP-2048](https://github.com/bd4sur/PSP-2048) - Game "2048" on PSP console. PSP console 2048 mini game.
 - [PSPDoom](https://github.com/z2442/PSPDoom) - Doom port for PSP.
 - [RALG](https://github.com/florinilie139/RALG) - Really Annoying Level Game for PSP.
+- [Rayman-PSP](https://github.com/fjm-homebrew/rayman-psp) - Rayman engine for the Sony PSP.
 - [Spaceboopers](https://github.com/nikp123/spaceboopers) - Spaceboopers Multiplayer Game for PSP.
 - [Spelunky](https://github.com/dbeef/spelunky-psp) - Spelunky Remake for PSP.
+- [taiga-aisaka](https://github.com/123321mario/taiga-aisaka) - french translation project for toradora portable game patch.
 - [Wolf3D-PSP](https://github.com/BenMcLean/Wolf3D-PSP) - Wolfenstein 3D port for PSP.
 
 ## Game Engines
