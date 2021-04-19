@@ -4,8 +4,16 @@ As the source code for these projects is already being preserved, they will not 
 
 ## Apps and Utilities
 
+- [Beatbox](https://github.com/Babkock/Beatbox) - Simple push-button drum sounds for PSP.
 - [CMFileManager PSP](https://github.com/joel16/CMFileManager-PSP) - File Manager for PSP.
+- [LittleGPTracker](https://github.com/NinjasCL-archive/LittleGPTracker) - Little GP Tracker (Piggy Tracker) for PSP.
+- [My-Playlist_Internet Radio](https://github.com/Vasniktel/My-Playlist) - Internet radio player for PSP.
+- [PBPCombiner](https://github.com/remixer-dec/PBPCombiner) - combines separated PBP files for old PSP CFWs into a single one right in your browser.
+- [Psp-battery](https://github.com/boozerboozeman/psp-battery) - check temps of the battery for PSP.
 - [Pmplayer Advance](https://github.com/ErikPshat/pmplayer-advance) - Media Player for PSP.
+- [ToneMatrix](https://github.com/Babkock/ToneMatrix) - Programmable drum machine and sequencer for the PSP.
+- [UMD_FileRenamer](https://github.com/BrosMakingSoftware/UMD_FileRenamer) - Application to rename PSP disk images (cso, iso) based on it's UMD properties.
+- [valentine-hbl](https://github.com/173210/valentine-hbl) - Half Byte Loader BETA for PSP.
 
 ## Demos
 
@@ -14,8 +22,10 @@ As the source code for these projects is already being preserved, they will not 
 ## Development
 
 - [Insomnia-ProQuake-Engine](https://github.com/darkduke606/Insomnia-ProQuake-Engine) - ProQuake Engine for PSP.
-- [Kurok](https://github.com/TheMrIron2/kurok) - Kurok Game Engine for PSP. 
+- [Kurok](https://github.com/TheMrIron2/kurok) - Kurok Game Engine for PSP.
+- [Lovepsp](https://github.com/slemonide/lovepsp) - Love2D port for PSP.
 - [LTE Game Engine](https://github.com/luca1897/Lte-Game-Engine) - LTE Game Engine for PSP.
+- [luadev-r0-psp](https://github.com/jcnmsg/LuaDEV-R0-psp) - Lua interpreter for PSP.
 - [Lua Player Plus](https://github.com/Rinnegatamante/lua-player-plus) - Lua Interpreter for PSP.
 - [MElib](https://github.com/IridescentRose/MElib) - Library to easily offload tasks to the PSP Media Engine.
 - [OldSchool Library (OSLib) MODv2](https://github.com/dogo/oslibmodv2) - A 2D Graphics Library for PSP.
@@ -67,17 +77,23 @@ As the source code for these projects is already being preserved, they will not 
 - [Battlegrounds 3](https://github.com/xfacter/battlegrounds3) - BG3 Game for PSP.
 - [BlockOut II PSP](https://github.com/bomblik/BlockOut_II_PSP) - BlockOut ll Game for PSP.
 - [Cannonball-PSP](https://github.com/TheMrIron2/cannonball-PSP) - Cannonball for PSP.
+- [Colditz-esacpe](https://github.com/aperture-software/colditz-escape) - Amiga's "Escape From Colditz" ported to PSP.
 - [CSPSP](https://github.com/st1x51/CSPSP_ADQ) - CSPSP on ADQ Engine for PSP.
 - [Chocolate Doom](https://github.com/mwpenny/chocolate-doom-psp) - Doom port for PSP.
 - [Emblem of Fire](https://github.com/TheMrIron2/Emblem-of-Fire) - Emblem of Fire for PSP.
+- [gods-defense](https://github.com/dogo/gods-defense) - PSP Game - Gods Defense.
 - [Golden Eye](https://github.com/TheMrIron2/goldeneye-psp) - Golden Eye 007 (N64) for PSP.
-- [hnefatafl](https://github.com/TheMrIron2/hnefatafl-psp) - Hnefatafl Game for PSP.
+- [Hnefatafl](https://github.com/TheMrIron2/hnefatafl-psp) - Hnefatafl Game for PSP.
 - [Minecraft-PSP](https://github.com/Woolio/Minecraft-PSP) - Minecraft for PSP.
 - [MC-PSP](https://github.com/IridescentRose/MC-PSP) - Minecraft for PSP.
+- [Mudkip-Adventures](https://github.com/albe/mudkip-adventures) - A PSP Mudkip game.
 - [Nazi Zombies Portable Reboot](https://github.com/thyjukki/nzp-reboot/) - Call of Duty Zombies port for PSP.
+- [Pspchess](https://github.com/cwbowron/pspchess) - OpenChess for PSP.
+- [psp-runner](https://github.com/dogo/psp-runner) - Simple PSP game.
 - [Perfect Dark Reloaded](https://github.com/TheMrIron2/Perfect-Dark-Reloaded) - Perfect Dark Realoaded for PSP.
 - [Project Enigma](https://github.com/TheMrIron2/project-enigma) - Project Enigma for PSP.
 - [PSPDoom](https://github.com/z2442/PSPDoom) - Doom port for PSP.
+- [RALG](https://github.com/florinilie139/RALG) - Really Annoying Level Game for PSP.
 - [Spaceboopers](https://github.com/nikp123/spaceboopers) - Spaceboopers Multiplayer Game for PSP.
 - [Spelunky](https://github.com/dbeef/spelunky-psp) - Spelunky Remake for PSP.
 - [Wolf3D-PSP](https://github.com/BenMcLean/Wolf3D-PSP) - Wolfenstein 3D port for PSP.
@@ -88,5 +104,6 @@ As the source code for these projects is already being preserved, they will not 
 - [MegaZeux](https://github.com/AliceLR/megazeux/) - Game Creation System for PSP.
 - [OpenBOR](https://github.com/DCurrent/openbor) - Beast of Rage Multi Game Engine for PSP.
 - [OpenLara](https://github.com/XProger/OpenLara/releases/tag/20180524) - Classic Tomb Raider Game for PSP.
+- [Pocket-Game-Maker](https://github.com/History-exe/Pocket-Game-Maker-v0.83)  - PSP AVG game engine.
 - [ScummVM](https://github.com/rsn8887/scummvm/releases/tag/2.1.0git-rsn8887.30) - ScummVM Multi Game Engine for PSP.
 - [Super Mario 64 Port](https://github.com/z2442/sm64-port) - Super Mario 64 port for PSP.
