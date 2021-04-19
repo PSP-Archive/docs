@@ -4,6 +4,7 @@ As the source code for these projects is already being preserved, they will not 
 
 ## Apps and Utilities
 
+- [Bancard](https://github.com/betterplace/bancard) - Bancard PSP Implementation for Rails Applications.
 - [Beatbox](https://github.com/Babkock/Beatbox) - Simple push-button drum sounds for PSP.
 - [CMFileManager PSP](https://github.com/joel16/CMFileManager-PSP) - File Manager for PSP.
 - [LittleGPTracker](https://github.com/NinjasCL-archive/LittleGPTracker) - Little GP Tracker (Piggy Tracker) for PSP.
@@ -49,6 +50,7 @@ As the source code for these projects is already being preserved, they will not 
 - [gpSP(mirror)](https://github.com/cedricwaltercson/gpsp) - Nintendo GBA Emulator.
 - [Handy PSP](https://github.com/8bitpsp/handy) - Atari Lynx Emulator.
 - [MasterBoy](https://github.com/wodim/MasterBoy) - Nintendo GameBoy / GameBoy Color and SEGA MasterSystem / GameGear Emulators.
+- [MednafenPSP](https://github.com/RobertSzkutak/mednafenPSP) - A port of the mednafen emulator to PSP.
 - [Monkey64](https://github.com/TheMrIron2/Monkey64) - Nintendo 64 Emulator.
 - [MVSPSP](https://github.com/swarzesherz/mvspsp) - SNK NeoGeo MVS Emulator.
 - [Nesterj AoEX r3-mod](https://github.com/rinrin-/NesterJ_AoEX_R3) - Nintendo NES Emulator.
@@ -76,6 +78,7 @@ As the source code for these projects is already being preserved, they will not 
 
 - [Battlegrounds 2](https://github.com/xfacter/battlegrounds2) - BG2 Game for PSP.
 - [Battlegrounds 3](https://github.com/xfacter/battlegrounds3) - BG3 Game for PSP.
+- [Black-Rock-Shooter---The-Game-PSP](https://github.com/jameshentai/Black-Rock-Shooter---The-Game-PSP-) - Black-Rock-Shooter---The-Game-PSP.
 - [BlockOut II PSP](https://github.com/bomblik/BlockOut_II_PSP) - BlockOut ll Game for PSP.
 - [Cannonball-PSP](https://github.com/TheMrIron2/cannonball-PSP) - Cannonball for PSP.
 - [Colditz-esacpe](https://github.com/aperture-software/colditz-escape) - Amiga's "Escape From Colditz" ported to PSP.
@@ -95,13 +98,19 @@ As the source code for these projects is already being preserved, they will not 
 - [psp-runner](https://github.com/dogo/psp-runner) - Simple PSP game.
 - [Perfect Dark Reloaded](https://github.com/TheMrIron2/Perfect-Dark-Reloaded) - Perfect Dark Realoaded for PSP.
 - [Project Enigma](https://github.com/TheMrIron2/project-enigma) - Project Enigma for PSP.
+- [Project-sonymon](https://github.com/fjm-homebrew/project-sonymon) - Project Sonymon game for psp.
 - [PSP-2048](https://github.com/bd4sur/PSP-2048) - Game "2048" on PSP console. PSP console 2048 mini game.
 - [PSPDoom](https://github.com/z2442/PSPDoom) - Doom port for PSP.
+- [PSP-Doom](https://github.com/derek57/psp-doom) - Doom for PSP.
+- [PSP-fighter](https://github.com/omegavesko/PSP-Fighter) - A simple homebrew game for the PSP, written using the PSP port of SDL.
+- [PSPMania](https://github.com/mafu9/PSPMania) - This is StepMania 3.9, a famous rhythm game simulator, ported to the PSP.
 - [RALG](https://github.com/florinilie139/RALG) - Really Annoying Level Game for PSP.
 - [Rayman-PSP](https://github.com/fjm-homebrew/rayman-psp) - Rayman engine for the Sony PSP.
 - [Spaceboopers](https://github.com/nikp123/spaceboopers) - Spaceboopers Multiplayer Game for PSP.
 - [Spelunky](https://github.com/dbeef/spelunky-psp) - Spelunky Remake for PSP.
 - [taiga-aisaka](https://github.com/123321mario/taiga-aisaka) - french translation project for toradora portable game patch.
+- [Quake3psp-mirror](https://github.com/Fighter19/Quake3PSP-mirror) - A mirror of the PSP port for Quake 3 Arena (just in case).
+- [Wolfenstein-3D](https://github.com/DanS2D/Wolfenstein3D-PSP) - PSP Port of Wolfenstein 3D.
 - [Wolf3D-PSP](https://github.com/BenMcLean/Wolf3D-PSP) - Wolfenstein 3D port for PSP.
 
 ## Game Engines
