@@ -14,7 +14,6 @@ As the source code for these projects is already being preserved, they will not 
 - [pimp-my-name](https://github.com/Yonaba/pimp-my-name) - Small old homebrew Lua application written in Lua for PSP.
 - [Psp-battery](https://github.com/boozerboozeman/psp-battery) - check temps of the battery for PSP.
 - [Pmplayer Advance](https://github.com/ErikPshat/pmplayer-advance) - Media Player for PSP.
-- [the-labyrinth](https://github.com/Yonaba/the-labyrinth) - A small technical raycasting demo written in Lua for PSP.
 - [ToneMatrix](https://github.com/Babkock/ToneMatrix) - Programmable drum machine and sequencer for the PSP.
 - [UMD_FileRenamer](https://github.com/BrosMakingSoftware/UMD_FileRenamer) - Application to rename PSP disk images (cso, iso) based on it's UMD properties.
 - [valentine-hbl](https://github.com/173210/valentine-hbl) - Half Byte Loader BETA for PSP.
@@ -22,6 +21,7 @@ As the source code for these projects is already being preserved, they will not 
 ## Demos
 
 - [Suicide Barbie](https://github.com/theblacklotus/suicide-barbie) - Suicide Barbie Demo Game for PSP.
+- [the-labyrinth](https://github.com/Yonaba/the-labyrinth) - A small technical raycasting demo written in Lua for PSP.
 
 ## Development
 
@@ -54,7 +54,7 @@ As the source code for these projects is already being preserved, they will not 
 - [gpSP(mirror)](https://github.com/cedricwaltercson/gpsp) - Nintendo GBA Emulator.
 - [Handy PSP](https://github.com/8bitpsp/handy) - Atari Lynx Emulator.
 - [MasterBoy](https://github.com/wodim/MasterBoy) - Nintendo GameBoy / GameBoy Color and SEGA MasterSystem / GameGear Emulators.
-- [MednafenPSP](https://github.com/RobertSzkutak/mednafenPSP) - A port of the mednafen emulator to PSP.
+- [MednafenPSP](https://github.com/RobertSzkutak/mednafenPSP) - A port of the mednafen emulator for PSP.
 - [Monkey64](https://github.com/TheMrIron2/Monkey64) - Nintendo 64 Emulator.
 - [MVSPSP](https://github.com/swarzesherz/mvspsp) - SNK NeoGeo MVS Emulator.
 - [Nesterj AoEX r3-mod](https://github.com/rinrin-/NesterJ_AoEX_R3) - Nintendo NES Emulator.
@@ -69,7 +69,7 @@ As the source code for these projects is already being preserved, they will not 
 - [PSPKVM](https://github.com/vadosnaprimer/pspkvm) - j2me Emulator.
 - [PX68k](https://github.com/hissorii/px68k) - Sharp X68000 Emulator.
 - [RACE! PSP](https://github.com/8bitpsp/race) - SNK NeoGeo Pocket / NeoGeo Pocket Color Emulator.
-- [SMSPlus PSP](https://github.com/8bitpsp/smsplus) - SEGA MasterSystem / GameGear and SG-1000 (Rename <code>.sg</code>«»<code>.sms</code>) Emulators.
+- [SMSPlus PSP](https://github.com/8bitpsp/smsplus) - SEGA MasterSystem / GameGear and SG-1000 Emulators.
 - [TempGBA4PSP-mod](https://github.com/phoe-nix/TempGBA4PSP-mod) - Nintendo GameBoy Advance Emulator.
 - [Uo NJEMU](https://github.com/173210/mvspsp/releases/tag/r5) - CPS1, CPS2, NeoGeo MVS and NeoGeo CDZ(CD) Emulators.
 - [VICE PSP](https://github.com/8bitpsp/vice) - Commodore 64 Emulator.
