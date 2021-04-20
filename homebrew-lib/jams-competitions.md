@@ -123,6 +123,10 @@
 
 - https://web.archive.org/web/20081216012108/http://www.psp-hacks.com/tag/homebrew-idol/
 
+## Concurso de homebrew TodoPSP (2008)
+
+- http://www.todopsp.com/foros/forumdisplay.php?f=46
+
 ## 1000$ pour la scène (2008-2009)
 
 - https://gamergen.com/actualites/concours-dev-1000-pour-scene-liste-officielle-37811-1
