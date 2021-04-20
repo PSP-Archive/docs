@@ -8,10 +8,13 @@ As the source code for these projects is already being preserved, they will not 
 - [Beatbox](https://github.com/Babkock/Beatbox) - Simple push-button drum sounds for PSP.
 - [CMFileManager PSP](https://github.com/joel16/CMFileManager-PSP) - File Manager for PSP.
 - [LittleGPTracker](https://github.com/NinjasCL-archive/LittleGPTracker) - Little GP Tracker (Piggy Tracker) for PSP.
+- [lua-system-shell](https://github.com/Yonaba/lua-system-shell) - Small old homebrew Lua shell written in Lua for PSP.
 - [My-Playlist_Internet Radio](https://github.com/Vasniktel/My-Playlist) - Internet radio player for PSP.
 - [PBPCombiner](https://github.com/remixer-dec/PBPCombiner) - combines separated PBP files for old PSP CFWs into a single one right in your browser.
+- [pimp-my-name](https://github.com/Yonaba/pimp-my-name) - Small old homebrew Lua application written in Lua for PSP.
 - [Psp-battery](https://github.com/boozerboozeman/psp-battery) - check temps of the battery for PSP.
 - [Pmplayer Advance](https://github.com/ErikPshat/pmplayer-advance) - Media Player for PSP.
+- [the-labyrinth](https://github.com/Yonaba/the-labyrinth) - A small technical raycasting demo written in Lua for PSP.
 - [ToneMatrix](https://github.com/Babkock/ToneMatrix) - Programmable drum machine and sequencer for the PSP.
 - [UMD_FileRenamer](https://github.com/BrosMakingSoftware/UMD_FileRenamer) - Application to rename PSP disk images (cso, iso) based on it's UMD properties.
 - [valentine-hbl](https://github.com/173210/valentine-hbl) - Half Byte Loader BETA for PSP.
@@ -43,6 +46,7 @@ As the source code for these projects is already being preserved, they will not 
 - [Chip8_PSP](https://github.com/stacksta/chip8_psp) - Chip8 Emulator.
 - [DaedalusX64](https://github.com/DaedalusX64/daedalus) - Nintendo 64 Emulator.
 - [DeSmuME PSP](https://github.com/themriron2/desmume-psp) - Nintendo DS Emulator.
+- [DSonPSP](https://github.com/bielgiroto/DSonPSP) - Nintendo DS Emulator.
 - [FBA4PSPmod](https://github.com/rereprep/FBA4PSPmod) - Final Burn Alpha (Psikyo core) Emulator.
 - [fceupsp](https://github.com/phoe-nix/fceupsp) - Nintendo NES Emulator.
 - [Fuse PSP](https://github.com/8bitpsp/fuse) - Sinclair ZX Spectrum Emulator.
@@ -90,6 +94,10 @@ As the source code for these projects is already being preserved, they will not 
 - [gods-defense](https://github.com/dogo/gods-defense) - PSP Game - Gods Defense.
 - [Golden Eye](https://github.com/TheMrIron2/goldeneye-psp) - Golden Eye 007 (N64) for PSP.
 - [Hnefatafl](https://github.com/TheMrIron2/hnefatafl-psp) - Hnefatafl Game for PSP.
+- [Hokuto-no-ken](https://github.com/Yonaba/hokuto-no-ken) - Small old homebrew Lua game written in Lua for PSP.
+- [luigi-world](https://github.com/Yonaba/luigi-world) - An old and minimalist platformer game with Luigi written in Lua for PSP.
+- [mario-eater](https://github.com/Yonaba/mario-eater) - Small old homebrew Lua game written in Lua for PSP.
+- [mario-kart](https://github.com/Yonaba/mario-kart) - A small and minimalist Mario Kart homebrew game written in Lua for PSP.
 - [Minecraft-PSP](https://github.com/Woolio/Minecraft-PSP) - Minecraft for PSP.
 - [MC-PSP](https://github.com/IridescentRose/MC-PSP) - Minecraft for PSP.
 - [Mudkip-Adventures](https://github.com/albe/mudkip-adventures) - A PSP Mudkip game.
@@ -108,7 +116,9 @@ As the source code for these projects is already being preserved, they will not 
 - [Rayman-PSP](https://github.com/fjm-homebrew/rayman-psp) - Rayman engine for the Sony PSP.
 - [Spaceboopers](https://github.com/nikp123/spaceboopers) - Spaceboopers Multiplayer Game for PSP.
 - [Spelunky](https://github.com/dbeef/spelunky-psp) - Spelunky Remake for PSP.
+- [Super-mini-halo](https://github.com/JpDeathBlade/Super-Mini-Halo) - A PSP homebrew Mario game with a Halo skin.
 - [taiga-aisaka](https://github.com/123321mario/taiga-aisaka) - french translation project for toradora portable game patch.
+- [uplink-psp](https://github.com/Yonaba/uplink-psp) - A small clone of Uplink Hacker Elite game written in Lua for PSP.
 - [Quake3psp-mirror](https://github.com/Fighter19/Quake3PSP-mirror) - A mirror of the PSP port for Quake 3 Arena (just in case).
 - [Wolfenstein-3D](https://github.com/DanS2D/Wolfenstein3D-PSP) - PSP Port of Wolfenstein 3D.
 - [Wolf3D-PSP](https://github.com/BenMcLean/Wolf3D-PSP) - Wolfenstein 3D port for PSP.
