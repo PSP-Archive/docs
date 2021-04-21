@@ -2,6 +2,12 @@ Documentation for the PlayStation Portable Archive.
 
 # Table of Contents
 
+## Learning resources
+
+- [Nehe Tutorials](https://github.com/PSP-Archive/Nehe-Tutorials) - PSPGL tutorials by Edorul. 
+- [3D PSP Tutorials](https://github.com/PSP-Archive/3D-PSP-Tutorials) - created by Ghoti.
+- [PSP-programming.com Tutorials](https://github.com/PSP-Archive/PSP-programming.com-Tutorials) - recovered tutorial samples from the website. 
+
 ## Preservation of source code
 
 - [PSP projects already hosted on GitHub](code-archive/other-projects.md) - they will not be rehosted in here.
