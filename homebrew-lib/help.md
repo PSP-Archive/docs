@@ -46,4 +46,6 @@ To report a broken homebrew, create a new entry in our [Issues page](https://git
 
 ## A note on Authorship
 
-The 'creator' field on the Internet Archive pages reflects the credits listed either within the archived homebrew itself, or the readme file provided with a given build. We make no claims on their accuracy, nor do we seek to establish an absolute truth on the authorship of a project. We have no means to adjudicate authorship disputes. The 'creator' field is merely a convenient way of cataloguing projects as they are preserved. 
+The 'creator' field on the Internet Archive pages reflects the credits listed either within the archived homebrew itself, or the readme file provided with a given build. We make no claims on their accuracy, nor do we seek to establish an absolute truth on the authorship of a project. We have no means to adjudicate authorship disputes. The 'creator' field is merely a convenient way of cataloguing projects as they are preserved.
+
+If the game/application is a port, the 'creator' field reflects the author of the port, not of the original work. This is because the same work may have been ported [numerous times](https://archive.org/details/psp-homebrew-library?query=supertux&sin=) by different developers.
