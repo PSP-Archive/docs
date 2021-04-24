@@ -61,6 +61,7 @@ As the source code for these projects is already being preserved, they will not 
 - [NJEMU](https://github.com/phoe-nix/NJEMU) - CPS1, CPS2, NeoGeo MVS and NeoGeo CDZ(CD) Emulators.
 - [NeoPop PSP](https://github.com/8bitpsp/neopop) - SNK NeoGeo Pocket / NeoGeo Pocket Color Emulator.
 - [NooDS-PSP](https://github.com/Xiro28/NooDS-PSP) - Nintendo DS Emulator.
+- [PSP-Hugo](https://github.com/TheMrIron2/PSP-Hugo) - NEC PC Engine/TurboGrafx-16, PC Engine CD/TurboGrafx-CD, SuperGrafx Emulators.
 - [PSP-RIN](https://github.com/mbarczak/psp_rin) - Nintendo GameBoy / GameBoy Color Emulator.
 - [PSPUAE](https://github.com/HoraceAndTheSpider/PSPUAE) - Commodore Amiga 500/1200 Emulator.
 - [PicoDrive](https://github.com/pumpkinlink/picodrive) - SEGA Genesis/MegaDrive, MasterSystem/GameGear, Sega CD/Mega CD and 32X Emulators. ; archive of robson-alcantara's fork
