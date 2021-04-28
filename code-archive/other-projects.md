@@ -14,10 +14,12 @@ As the source code for these projects is already being preserved, they will not 
 - [pimp-my-name](https://github.com/Yonaba/pimp-my-name) - Small old homebrew Lua application written in Lua for PSP.
 - [Psp-battery](https://github.com/boozerboozeman/psp-battery) - check temps of the battery for PSP.
 - [PSPlinkusb](https://github.com/pspdev/psplinkusb) - General purpose homebrew/debugging toolkit for PSP.
+- [psplyric](https://github.com/acourreges/psplyrics) - Music Player + Lyrics Viewer for the PSP.
 - [Pmplayer Advance](https://github.com/ErikPshat/pmplayer-advance) - Media Player for PSP.
 - [ToneMatrix](https://github.com/Babkock/ToneMatrix) - Programmable drum machine and sequencer for the PSP.
 - [UMD_FileRenamer](https://github.com/BrosMakingSoftware/UMD_FileRenamer) - Application to rename PSP disk images (cso, iso) based on it's UMD properties.
 - [valentine-hbl](https://github.com/173210/valentine-hbl) - Half Byte Loader BETA for PSP.
+- [Zig-psp](https://github.com/zPSP-Dev/Zig-PSP) - A project to bring the Zig Programming Language to the PSP.
 
 ## Demos
 
@@ -87,6 +89,7 @@ As the source code for these projects is already being preserved, they will not 
 - [Black-Rock-Shooter---The-Game-PSP](https://github.com/jameshentai/Black-Rock-Shooter---The-Game-PSP-) - Black-Rock-Shooter---The-Game-PSP.
 - [BlockOut II PSP](https://github.com/bomblik/BlockOut_II_PSP) - BlockOut ll Game for PSP.
 - [Cannonball-PSP](https://github.com/TheMrIron2/cannonball-PSP) - Cannonball for PSP.
+- [Crazy-Snake-PSP](https://github.com/georgesofianosgr/Crazy-Snake-PSP) - A snake clone game for PSP.
 - [Colditz-esacpe](https://github.com/aperture-software/colditz-escape) - Amiga's "Escape From Colditz" ported to PSP.
 - [CSPSP](https://github.com/st1x51/CSPSP_ADQ) - CSPSP on ADQ Engine for PSP.
 - [Chocolate Doom](https://github.com/mwpenny/chocolate-doom-psp) - Doom port for PSP.
