@@ -5,9 +5,12 @@ As the source code for these projects is already being preserved, they will not 
 ## Apps and Utilities
 
 - [Bancard](https://github.com/betterplace/bancard) - Bancard PSP Implementation for Rails Applications.
+- [Beacon-PSP](https://github.com/whutddk/beacon-PSP)
 - [Beatbox](https://github.com/Babkock/Beatbox) - Simple push-button drum sounds for PSP.
 - [CMFileManager PSP](https://github.com/joel16/CMFileManager-PSP) - File Manager for PSP.
+- [Gotube](https://github.com/yne/gotube) - YouTube player for the PlayStation Portable.
 - [LittleGPTracker](https://github.com/NinjasCL-archive/LittleGPTracker) - Little GP Tracker (Piggy Tracker) for PSP.
+- [LMP3D](https://github.com/Kannagi/LMP3D) - Multi Platform 3D Library for PSP.
 - [lua-system-shell](https://github.com/Yonaba/lua-system-shell) - Small old homebrew Lua shell written in Lua for PSP.
 - [muParser](https://github.com/libcg/muParser) - PSP port of muParser.
 - [My-Playlist_Internet Radio](https://github.com/Vasniktel/My-Playlist) - Internet radio player for PSP.
@@ -80,6 +83,7 @@ As the source code for these projects is already being preserved, they will not 
 - [VICE-PSP](https://github.com/rsn8887/pspvice) - Commodore 64 Emulator.
 - [fMSX PSP](https://github.com/8bitpsp/fms) - MSX/ColecoVision Emulators.
 - [Snes9x Euphoria](https://github.com/BASLQC/snes9x-euphoria) - Nintendo SNES Emulator.
+- [Snes9xTYL](https://github.com/173210/snes9xTYL) - Nintendo SNES Emulator.
 - [Snes9xTYL-mod](https://github.com/esmjanus/snes9xTYL) - Nintendo SNES Emulator.
 
 ## Games
@@ -87,6 +91,7 @@ As the source code for these projects is already being preserved, they will not 
 - [Battlegrounds 2](https://github.com/xfacter/battlegrounds2) - BG2 Game for PSP.
 - [Battlegrounds 3](https://github.com/xfacter/battlegrounds3) - BG3 Game for PSP.
 - [Black-Rock-Shooter---The-Game-PSP](https://github.com/jameshentai/Black-Rock-Shooter---The-Game-PSP-) - Black-Rock-Shooter---The-Game-PSP.
+- [Blind-jump-portable](https://github.com/evanbowman/blind-jump-portable) - Action/adventure game for PSP.
 - [BlockOut II PSP](https://github.com/bomblik/BlockOut_II_PSP) - BlockOut ll Game for PSP.
 - [Cannonball-PSP](https://github.com/TheMrIron2/cannonball-PSP) - Cannonball for PSP.
 - [Colditz-esacpe](https://github.com/aperture-software/colditz-escape) - Amiga's "Escape From Colditz" ported to PSP.
@@ -106,6 +111,7 @@ As the source code for these projects is already being preserved, they will not 
 - [MC-PSP](https://github.com/IridescentRose/MC-PSP) - Minecraft for PSP.
 - [Mudkip-Adventures](https://github.com/albe/mudkip-adventures) - A PSP Mudkip game.
 - [Nazi Zombies Portable Reboot](https://github.com/thyjukki/nzp-reboot/) - Call of Duty Zombies port for PSP.
+- [Phlipple_PSP](https://github.com/bomblik/Phlipple_PSP) - Sony Playstation Portable port of Phlipple Game.
 - [Pspchess](https://github.com/cwbowron/pspchess) - OpenChess for PSP.
 - [psp-runner](https://github.com/dogo/psp-runner) - Simple PSP game.
 - [Perfect Dark Reloaded](https://github.com/TheMrIron2/Perfect-Dark-Reloaded) - Perfect Dark Realoaded for PSP.
