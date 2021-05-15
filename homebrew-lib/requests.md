@@ -3,8 +3,9 @@
 Feel free to add any games missing from the PSP Homebrew Library to this list.
 
 - 69 Stopper by SG57
-- AVG Maker Portable
 - Click Click Machine by miNi
+- Dark Dungeons by Be3f
+- Frack Mod V by Frack
 - Halo Dungeons Vs 2 by VettaCrossX
 - Indy 2007 by DaveRhodes
 - Kramer's Lua Demo (author unknown)
