@@ -5,16 +5,22 @@ As the source code for these projects is already being preserved, they will not 
 ## Apps and Utilities
 
 - [Bancard](https://github.com/betterplace/bancard) - Bancard PSP Implementation for Rails Applications.
+- [Beacon-PSP](https://github.com/whutddk/beacon-PSP)
 - [Beatbox](https://github.com/Babkock/Beatbox) - Simple push-button drum sounds for PSP.
 - [CMFileManager PSP](https://github.com/joel16/CMFileManager-PSP) - File Manager for PSP.
+- [Gotube](https://github.com/yne/gotube) - YouTube player for the PlayStation Portable.
 - [LittleGPTracker](https://github.com/NinjasCL-archive/LittleGPTracker) - Little GP Tracker (Piggy Tracker) for PSP.
+- [LMP3D](https://github.com/Kannagi/LMP3D) - Multi Platform 3D Library for PSP.
 - [lua-system-shell](https://github.com/Yonaba/lua-system-shell) - Small old homebrew Lua shell written in Lua for PSP.
+- [muParser](https://github.com/libcg/muParser) - PSP port of muParser.
 - [My-Playlist_Internet Radio](https://github.com/Vasniktel/My-Playlist) - Internet radio player for PSP.
+- [PangLib.PSP](https://github.com/pangyatools/PangLib.PSP) - Series of tools to interact with 'Pangya: Fantasy Golf' PSP game files.
 - [PBPCombiner](https://github.com/remixer-dec/PBPCombiner) - combines separated PBP files for old PSP CFWs into a single one right in your browser.
 - [pimp-my-name](https://github.com/Yonaba/pimp-my-name) - Small old homebrew Lua application written in Lua for PSP.
 - [Psp-battery](https://github.com/boozerboozeman/psp-battery) - check temps of the battery for PSP.
 - [PSPlinkusb](https://github.com/pspdev/psplinkusb) - General purpose homebrew/debugging toolkit for PSP.
 - [psplyric](https://github.com/acourreges/psplyrics) - Music Player + Lyrics Viewer for the PSP.
+- [pspwxp](https://github.com/tisaconundrum2/pspwxp) - Playstation Portable Windows XP.
 - [Pmplayer Advance](https://github.com/ErikPshat/pmplayer-advance) - Media Player for PSP.
 - [ToneMatrix](https://github.com/Babkock/ToneMatrix) - Programmable drum machine and sequencer for the PSP.
 - [UMD_FileRenamer](https://github.com/BrosMakingSoftware/UMD_FileRenamer) - Application to rename PSP disk images (cso, iso) based on it's UMD properties.
@@ -23,6 +29,7 @@ As the source code for these projects is already being preserved, they will not 
 
 ## Demos
 
+- [psp-video-player](https://github.com/psplabs/psp-video-player) - A proof of concept demo for generating and compiling expirable, secure, offline videos.
 - [Suicide Barbie](https://github.com/theblacklotus/suicide-barbie) - Suicide Barbie Demo Game for PSP.
 - [the-labyrinth](https://github.com/Yonaba/the-labyrinth) - A small technical raycasting demo written in Lua for PSP.
 
@@ -57,7 +64,6 @@ As the source code for these projects is already being preserved, they will not 
 - [gpSP(mirror)](https://github.com/cedricwaltercson/gpsp) - Nintendo GBA Emulator.
 - [Handy PSP](https://github.com/8bitpsp/handy) - Atari Lynx Emulator.
 - [MasterBoy](https://github.com/wodim/MasterBoy) - Nintendo GameBoy / GameBoy Color and SEGA MasterSystem / GameGear Emulators.
-- [MednafenPSP](https://github.com/RobertSzkutak/mednafenPSP) - A port of the mednafen emulator for PSP.
 - [Monkey64](https://github.com/TheMrIron2/Monkey64) - Nintendo 64 Emulator.
 - [MVSPSP](https://github.com/swarzesherz/mvspsp) - SNK NeoGeo MVS Emulator.
 - [Nesterj AoEX r3-mod](https://github.com/rinrin-/NesterJ_AoEX_R3) - Nintendo NES Emulator.
@@ -71,6 +77,7 @@ As the source code for these projects is already being preserved, they will not 
 - [PlutoBoy](https://github.com/RossMeikleham/PlutoBoy) - Nintendo GameBoy / GameBoy Color Emulator.
 - [Potator PSP](https://github.com/infval/potator-psp-akop) - Watara Supervision Emulator.
 - [PSPKVM](https://github.com/vadosnaprimer/pspkvm) - j2me Emulator.
+- [PSPMasterboy](https://github.com/maxbit89/PSPMasterBoy) - GameBoy Emulator for PSP.
 - [PX68k](https://github.com/hissorii/px68k) - Sharp X68000 Emulator.
 - [RACE! PSP](https://github.com/8bitpsp/race) - SNK NeoGeo Pocket / NeoGeo Pocket Color Emulator.
 - [SMSPlus PSP](https://github.com/8bitpsp/smsplus) - SEGA MasterSystem / GameGear and SG-1000 Emulators.
@@ -80,6 +87,7 @@ As the source code for these projects is already being preserved, they will not 
 - [VICE-PSP](https://github.com/rsn8887/pspvice) - Commodore 64 Emulator.
 - [fMSX PSP](https://github.com/8bitpsp/fms) - MSX/ColecoVision Emulators.
 - [Snes9x Euphoria](https://github.com/BASLQC/snes9x-euphoria) - Nintendo SNES Emulator.
+- [Snes9xTYL](https://github.com/173210/snes9xTYL) - Nintendo SNES Emulator.
 - [Snes9xTYL-mod](https://github.com/esmjanus/snes9xTYL) - Nintendo SNES Emulator.
 
 ## Games
@@ -87,6 +95,7 @@ As the source code for these projects is already being preserved, they will not 
 - [Battlegrounds 2](https://github.com/xfacter/battlegrounds2) - BG2 Game for PSP.
 - [Battlegrounds 3](https://github.com/xfacter/battlegrounds3) - BG3 Game for PSP.
 - [Black-Rock-Shooter---The-Game-PSP](https://github.com/jameshentai/Black-Rock-Shooter---The-Game-PSP-) - Black-Rock-Shooter---The-Game-PSP.
+- [Blind-jump-portable](https://github.com/evanbowman/blind-jump-portable) - Action/adventure game for PSP.
 - [BlockOut II PSP](https://github.com/bomblik/BlockOut_II_PSP) - BlockOut ll Game for PSP.
 - [Cannonball-PSP](https://github.com/TheMrIron2/cannonball-PSP) - Cannonball for PSP.
 - [Crazy-Snake-PSP](https://github.com/georgesofianosgr/Crazy-Snake-PSP) - A snake clone game for PSP.
@@ -107,6 +116,7 @@ As the source code for these projects is already being preserved, they will not 
 - [MC-PSP](https://github.com/IridescentRose/MC-PSP) - Minecraft for PSP.
 - [Mudkip-Adventures](https://github.com/albe/mudkip-adventures) - A PSP Mudkip game.
 - [Nazi Zombies Portable Reboot](https://github.com/thyjukki/nzp-reboot/) - Call of Duty Zombies port for PSP.
+- [Phlipple_PSP](https://github.com/bomblik/Phlipple_PSP) - Sony Playstation Portable port of Phlipple Game.
 - [Pspchess](https://github.com/cwbowron/pspchess) - OpenChess for PSP.
 - [psp-runner](https://github.com/dogo/psp-runner) - Simple PSP game.
 - [Perfect Dark Reloaded](https://github.com/TheMrIron2/Perfect-Dark-Reloaded) - Perfect Dark Realoaded for PSP.
@@ -122,6 +132,7 @@ As the source code for these projects is already being preserved, they will not 
 - [Spaceboopers](https://github.com/nikp123/spaceboopers) - Spaceboopers Multiplayer Game for PSP.
 - [Spelunky](https://github.com/dbeef/spelunky-psp) - Spelunky Remake for PSP.
 - [Super-mini-halo](https://github.com/JpDeathBlade/Super-Mini-Halo) - A PSP homebrew Mario game with a Halo skin.
+- [Supertransball2](https://github.com/evgenybf/supertransball2) - A Super Transball 2 game written by Santi Ontañón copied from http://www.braingames.getput.com/stransball2/. Note, this is an early version of the game and the author has made a new one which supports OpenGL, but the former was easier to port to PSP.
 - [taiga-aisaka](https://github.com/123321mario/taiga-aisaka) - french translation project for toradora portable game patch.
 - [uplink-psp](https://github.com/Yonaba/uplink-psp) - A small clone of Uplink Hacker Elite game written in Lua for PSP.
 - [Quake3psp-mirror](https://github.com/Fighter19/Quake3PSP-mirror) - A mirror of the PSP port for Quake 3 Arena (just in case).
