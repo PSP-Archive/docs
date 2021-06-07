@@ -8,10 +8,13 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - Frack Mod V by Frack
 - Halo Dungeons Vs 2 by VettaCrossX
 - Indy 2007 by DaveRhodes
+- Kirby's Lua Adventure by Crait
 - Kramer's Lua Demo (author unknown)
 - Maze Thing (author unknown)
+- namco86 by PSP開発幼稚園
 - NoName by Mc99
 - PSP CET 4 by Adam Chen
+- PSP Duke Nukem 3D by crow_bar
 - hawaShot by CauxProd
 - iLyric音乐播放器
 - 五子棋PSP
