@@ -2,7 +2,6 @@
 
 Feel free to add any games missing from the PSP Homebrew Library to this list.
 
-- 69 Stopper by SG57
 - Click Click Machine by miNi
 - Dark Dungeons by Be3f
 - Frack Mod V by Frack
@@ -14,7 +13,6 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - namco86 by PSP開発幼稚園
 - NoName by Mc99
 - PSP CET 4 by Adam Chen
-- PSP Duke Nukem 3D by crow_bar
 - hawaShot by CauxProd
 - iLyric音乐播放器
 - 五子棋PSP
