@@ -60,6 +60,7 @@ As the source code for these projects is already being preserved, they will not 
 - [FBA4PSPmod](https://github.com/rereprep/FBA4PSPmod) - Final Burn Alpha (Psikyo core) Emulator.
 - [fceupsp](https://github.com/phoe-nix/fceupsp) - Nintendo NES Emulator.
 - [Fuse PSP](https://github.com/8bitpsp/fuse) - Sinclair ZX Spectrum Emulator.
+- [gambatte](https://github.com/wally4000/gambatte) - Nintendo GameBoy / GameBoy Color Emulator.
 - [gpSP](https://github.com/BASLQC/gPSP) - Nintendo GBA Emulator.
 - [gpSP(mirror)](https://github.com/cedricwaltercson/gpsp) - Nintendo GBA Emulator.
 - [Handy PSP](https://github.com/8bitpsp/handy) - Atari Lynx Emulator.
