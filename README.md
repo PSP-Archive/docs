@@ -7,6 +7,8 @@ Documentation for the PlayStation Portable Archive.
 - [Nehe Tutorials](https://github.com/PSP-Archive/Nehe-Tutorials) - PSPGL tutorials by Edorul. 
 - [3D PSP Tutorials](https://github.com/PSP-Archive/3D-PSP-Tutorials) - created by Ghoti.
 - [PSP-programming.com Tutorials](https://github.com/PSP-Archive/PSP-programming.com-Tutorials) - recovered tutorial samples from the website. 
+- [PSP Cache: How to](https://web.archive.org/web/20100518170432/http://www.goop.org/psp/cache-howto.html) by Jeremy Fitzhardinge.
+- [PSPGL: (something a bit like) OpenGL for the PSP](https://web.archive.org/web/20060103233924/http://www.goop.org:80/psp/gl/) by Jeremy Fitzhardinge.
 
 ## Preservation of source code
 
