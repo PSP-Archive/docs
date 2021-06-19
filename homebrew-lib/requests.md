@@ -20,3 +20,4 @@ Feel free to add any games missing from the PSP Homebrew Library to this list.
 - 扫雷P
 - 禁区求生P
 - 贪吃蛇P
+- Quartel
