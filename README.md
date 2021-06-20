@@ -28,4 +28,4 @@ Documentation for the PlayStation Portable Archive.
   
 - [List of PSP Game Jams and Competitions](homebrew-lib/jams-competitions.md) - to find quality homebrew games/apps we might have missed.
   - [List of competition entries](https://docs.google.com/spreadsheets/d/1JqOYCV3jG-_ylpcSuPKXVYlhoWfiauJyYQgm6qPdu6M/edit?usp=sharing)
-- [Where to look for content](https://docs.google.com/spreadsheets/d/11V_3Z18Va8iJxSsgaPAkEvirSF53O7oX40RvnBcEcNc/edit?usp=sharing) - sites that might have useful stuff.
+- [Where to look for content](homebrew-lib/homebrew-sources.md) - sites that might have useful stuff.
