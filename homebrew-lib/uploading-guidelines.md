@@ -1,10 +1,14 @@
-Uploaders must be admins of the PSP Homebrew Library, otherwise it will not be possible to add their uploads to the collection (not even by the admins of the collection).
+# Guidelines for uploaders
 
-# 'Not working' is relative
+Uploaders must be admins of the [PSP Homebrew Library](https://archive.org/details/psp-homebrew-library), otherwise it will not be possible to add their uploads to the collection (not even by the admins of the collection).
+
+For your first few uploads, add your findings to the Open Data collection of the Internet Archive. This does not require you to be an admin of the PSP Homebrew Library, and you will be able to move the files into the collection once you are given the role.
+
+## 'Not working' is relative
 
 Nearly all apps and games that were published by major homebrew sites in the past do work on at least one firmware. And if developers decide to create updated custom firmwares, new apps might suddenly become 'working' or 'not working' as well. The definition depends entirely on the system's software.
 
-To test, I decided to use neur0n's **LME custom firmware, version 6.61 - 2.3**. This is because it supports Dark_Alex's Legacy Software Loader (aka leda.prx) - drastically boosting the number of apps that it can launch. Unfortunately, the same cannot be said of Pro or ARK at the moment.
+To test, I decided to use neur0n's [LME custom firmware, version 6.61 - 2.3](https://archive.org/details/release_660lme.7z). This is because it supports Dark_Alex's Legacy Software Loader (aka [leda.prx](https://github.com/PSP-Archive/leda/releases)) - drastically boosting the number of apps that it can launch. Unfortunately, the same cannot be said of Pro or ARK at the moment.
 
 ## No flashers - ever
 
