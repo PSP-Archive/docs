@@ -1,19 +1,41 @@
 Uploaders must be admins of the PSP Homebrew Library, otherwise it will not be possible to add their uploads to the collection (not even by the admins of the collection).
 
+# 'Not working' is relative
+
+Nearly all apps and games that were published by major homebrew sites in the past do work on at least one firmware. And if developers decide to create updated custom firmwares, new apps might suddenly become 'working' or 'not working' as well. The definition depends entirely on the system's software.
+
+To test, I decided to use neur0n's **LME custom firmware, version 6.61 - 2.3**. This is because it supports Dark_Alex's Legacy Software Loader (aka leda.prx) - drastically boosting the number of apps that it can launch. Unfortunately, the same cannot be said of Pro or ARK at the moment.
+
+## No flashers - ever
+
+This is the cardinal rule. So many homebrews were created to add/remove assets from the system's NAND flash memory - to modify themes, add quality-of-life improvements or even simply to 'remove useless files'. 
+
+Those are not welcome. In fact, if you don't want to say goodbye to your device, you'd better not test them at all.
+
+The better flashers included checks for firmware versions and battery levels, but so many of them did not. Whatever they accomplished is largely irrelevant nowadays, and preserving isn't worth the risk of causing someone's PSP to turn into a paperweight.
+
+The handful of exceptions include apps that are actively used by most PSP users without issues - such as the latest versions of the Pro and LME custom firmwares. But that's about it. Everything else is to be deleted on sight.
+
 ## File structure
 
 All homebrews must be compressed using the 7z format before uploading them.
 
-The EBOOT file and its immediate contents must be placed at the root of the archive (as opposed to a subfolder).
+The EBOOT file and its immediate contents must be placed at the root of the archive (as opposed to a subfolder). 
+
+Add the usual memory stick structure to the archive *only if the homebrew requires it*. Example of this: the EBOOT that goes into the PSP/GAME folder, but to work it requires additional files at the root of the memory stick. [Monkey64](https://archive.org/details/monkey-64-0311.7z) shows how to deal with similar cases.
+
+## Cover image
+
+Any image uploaded in the root folder will be the cover image. Prefer in-game screenshots to artwork, menus or icons, as they provide a better impression of what the game looks like. 
+
+For emulators, the better choice is to include a screenshot of the menu. Showing an emulated game would be less representative of the application in this case.
 
 ## Metadata structure
 
-1. Cover image:
-	1. Any image uploaded in the root folder will be the cover image. Prefer in-game screenshots to artwork, menus or icons, as they provide a better impression of what the game looks like. 
 1. **Page Title**:
 	1. Only include the name of the homebrew. Version numbers belong in their own field (see below).
 1. **Subject Tags**:
-	1. Pick one among 'game', 'application', 'emulator', 'demo'. Additional tags can be added where deeded relevant by the uploader. 
+	1. Pick one among 'game', 'application', 'emulator', 'demo'. Additional tags can be added where deeded relevant by the uploader (e.g. for genres, like 'shooter', 'visual novel', etc). 
 	1. If a game participated in a competition (e.g. the NEO 2008 competition), add the relevant tag.
 	1. **Support tags**:
 		1. '1.50 FW only': if the game works on firmware 1.50, but not on any other version (even by using eLoader).
