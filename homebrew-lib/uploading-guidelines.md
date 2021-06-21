@@ -16,7 +16,7 @@ This is the cardinal rule. So many homebrews were created to add/remove assets f
 
 Those are not welcome. In fact, if you don't want to say goodbye to your device, you'd better not test them at all.
 
-The better flashers included checks for firmware versions and battery levels, but so many of them did not. Whatever they accomplished is largely irrelevant nowadays, and preserving isn't worth the risk of causing someone's PSP to turn into a paperweight.
+The better flashers included checks for firmware versions and battery levels, but so many of them did not. Whatever they accomplished is largely irrelevant nowadays, and preserving them isn't worth the risk of causing someone's PSP to turn into a paperweight.
 
 The handful of exceptions include apps that are actively used by most PSP users without issues - such as the latest versions of the Pro and LME custom firmwares. But that's about it. Everything else is to be deleted on sight.
 
@@ -56,9 +56,11 @@ For emulators, the better choice is to include a screenshot of the menu. Showing
 1. **Creator** field:
 	1. Where both the real names and nicknames of a creator are known, prefer real names (as those tend to change less often).
 	1. If the game/app is a port, enter the name of the creator of the PSP port. This is because the same game might have been ported several times by different people.
+	1. If the number of creators is really large (more than 4-5) leave this field blank, and list them in the Description field instead.
 1. **Date**:
-	1. When main version of the game/app (i.e., the most recent one included in the item) was released. If the game/app was previously unreleased, leave it blank. 
-	1. If the game/app is a port, enter the date when the port was released.
+	1. When main version of the game/app (i.e., the most recent one included in the item) was released. If the game/app was unreleased before being archived in the Homebrew Library, leave it blank. 
+	1. All dates should be later than 2005-05-05 (when Nem released his Hello World for PSP).
+	1. If the game/app is a port, enter the date when the port was released (so for DoomPSP it's 2006, not 1993).
 1. **Language**:
 	1. Only if a language other than English, leave blank otherwise. Only one language can be entered, so also leave it blank if multiple languages are supported. 
 1. **License**:
