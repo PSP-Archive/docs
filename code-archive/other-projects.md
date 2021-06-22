@@ -18,6 +18,7 @@ As the source code for these projects is already being preserved, they will not 
 - [PBPCombiner](https://github.com/remixer-dec/PBPCombiner) - combines separated PBP files for old PSP CFWs into a single one right in your browser.
 - [pimp-my-name](https://github.com/Yonaba/pimp-my-name) - Small old homebrew Lua application written in Lua for PSP.
 - [Psp-battery](https://github.com/boozerboozeman/psp-battery) - check temps of the battery for PSP.
+- [psp-helloworld](https://github.com/shvelo/psp-helloworld) - Hello World on Sony PSP.
 - [PSPlinkusb](https://github.com/pspdev/psplinkusb) - General purpose homebrew/debugging toolkit for PSP.
 - [psplyric](https://github.com/acourreges/psplyrics) - Music Player + Lyrics Viewer for the PSP.
 - [pspwxp](https://github.com/tisaconundrum2/pspwxp) - Playstation Portable Windows XP.
@@ -29,6 +30,7 @@ As the source code for these projects is already being preserved, they will not 
 
 ## Demos
 
+- [psp_chicken_demo](https://github.com/remi6397/psp_chicken_demo) - Simple demo of using CHICKEN Scheme for writing Sony PSP homebrew software.
 - [psp-video-player](https://github.com/psplabs/psp-video-player) - A proof of concept demo for generating and compiling expirable, secure, offline videos.
 - [Suicide Barbie](https://github.com/theblacklotus/suicide-barbie) - Suicide Barbie Demo Game for PSP.
 - [the-labyrinth](https://github.com/Yonaba/the-labyrinth) - A small technical raycasting demo written in Lua for PSP.
@@ -56,6 +58,7 @@ As the source code for these projects is already being preserved, they will not 
 - [Chip8_PSP](https://github.com/stacksta/chip8_psp) - Chip8 Emulator.
 - [DaedalusX64](https://github.com/DaedalusX64/daedalus) - Nintendo 64 Emulator.
 - [DeSmuME PSP](https://github.com/themriron2/desmume-psp) - Nintendo DS Emulator.
+- [DeSmuME_PSP_Experimental](https://github.com/Xiro28/desmume_psp_experimental) - Nintendo DS Emulator.
 - [DSonPSP](https://github.com/bielgiroto/DSonPSP) - Nintendo DS Emulator.
 - [FBA4PSPmod](https://github.com/rereprep/FBA4PSPmod) - Final Burn Alpha (Psikyo core) Emulator.
 - [fceupsp](https://github.com/phoe-nix/fceupsp) - Nintendo NES Emulator.
@@ -103,6 +106,7 @@ As the source code for these projects is already being preserved, they will not 
 - [Colditz-esacpe](https://github.com/aperture-software/colditz-escape) - Amiga's "Escape From Colditz" ported to PSP.
 - [CSPSP](https://github.com/st1x51/CSPSP_ADQ) - CSPSP on ADQ Engine for PSP.
 - [Chocolate Doom](https://github.com/mwpenny/chocolate-doom-psp) - Doom port for PSP.
+- [doolhof-de-game-psp](https://github.com/robinbouma7/doolhof-de-game-psp) - game for the psp. this is a remake of my javascript game for the psp.
 - [DQuakeplus](https://github.com/st1x51/DQuakePlus) - Just another psp quake engine.
 - [Emblem of Fire](https://github.com/TheMrIron2/Emblem-of-Fire) - Emblem of Fire for PSP.
 - [galaxy-integration-psp](https://github.com/TBemme/galaxy-integration-psp) - PSP platform integration for Galaxy 2.0.
@@ -130,6 +134,7 @@ As the source code for these projects is already being preserved, they will not 
 - [PSPMania](https://github.com/mafu9/PSPMania) - This is StepMania 3.9, a famous rhythm game simulator, ported to the PSP.
 - [RALG](https://github.com/florinilie139/RALG) - Really Annoying Level Game for PSP.
 - [Rayman-PSP](https://github.com/fjm-homebrew/rayman-psp) - Rayman engine for the Sony PSP.
+- [SDLPop](https://github.com/z2442/SDLPoP) - An open-source port of Prince of Persia, based on the disassembly of the DOS version for PSP.
 - [Slender-PSP](https://github.com/IridescentRose/Slender-PSP) - Spooky Scary Slenderman.
 - [Spaceboopers](https://github.com/nikp123/spaceboopers) - Spaceboopers Multiplayer Game for PSP.
 - [Spelunky](https://github.com/dbeef/spelunky-psp) - Spelunky Remake for PSP.
