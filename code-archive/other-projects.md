@@ -130,6 +130,7 @@ As the source code for these projects is already being preserved, they will not 
 - [PSPMania](https://github.com/mafu9/PSPMania) - This is StepMania 3.9, a famous rhythm game simulator, ported to the PSP.
 - [RALG](https://github.com/florinilie139/RALG) - Really Annoying Level Game for PSP.
 - [Rayman-PSP](https://github.com/fjm-homebrew/rayman-psp) - Rayman engine for the Sony PSP.
+- [Slender-PSP](https://github.com/IridescentRose/Slender-PSP) - Spooky Scary Slenderman.
 - [Spaceboopers](https://github.com/nikp123/spaceboopers) - Spaceboopers Multiplayer Game for PSP.
 - [Spelunky](https://github.com/dbeef/spelunky-psp) - Spelunky Remake for PSP.
 - [Super-mini-halo](https://github.com/JpDeathBlade/Super-Mini-Halo) - A PSP homebrew Mario game with a Halo skin.
@@ -145,6 +146,7 @@ As the source code for these projects is already being preserved, they will not 
 - [Aleph One](https://github.com/Aleph-One-Marathon/alephone-psp) - Alephone Game port for PSP.
 - [MegaZeux](https://github.com/AliceLR/megazeux/) - Game Creation System for PSP.
 - [OpenBOR](https://github.com/DCurrent/openbor) - Beast of Rage Multi Game Engine for PSP.
+- [OpenBOR_Plus](https://github.com/whitedragon0000/OpenBOR_PLUS) - Beast of Rage Multi Game Engine for PSP.
 - [OpenLara](https://github.com/XProger/OpenLara/releases/tag/20180524) - Classic Tomb Raider Game for PSP.
 - [Pocket-Game-Maker](https://github.com/History-exe/Pocket-Game-Maker-v0.83)  - PSP AVG game engine.
 - [ScummVM](https://github.com/rsn8887/scummvm/releases/tag/2.1.0git-rsn8887.30) - ScummVM Multi Game Engine for PSP.
