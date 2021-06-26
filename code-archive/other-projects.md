@@ -18,6 +18,8 @@ As the source code for these projects is already being preserved, they will not 
 - [PBPCombiner](https://github.com/remixer-dec/PBPCombiner) - combines separated PBP files for old PSP CFWs into a single one right in your browser.
 - [pimp-my-name](https://github.com/Yonaba/pimp-my-name) - Small old homebrew Lua application written in Lua for PSP.
 - [Psp-battery](https://github.com/boozerboozeman/psp-battery) - check temps of the battery for PSP.
+- [PSPCord](https://github.com/noche-x/PSPCord) - This is a application that let's you talk with other users on your PSP.
+- [psp-helloworld](https://github.com/shvelo/psp-helloworld) - Hello World on Sony PSP.
 - [PSPlinkusb](https://github.com/pspdev/psplinkusb) - General purpose homebrew/debugging toolkit for PSP.
 - [psplyric](https://github.com/acourreges/psplyrics) - Music Player + Lyrics Viewer for the PSP.
 - [pspwxp](https://github.com/tisaconundrum2/pspwxp) - Playstation Portable Windows XP.
@@ -25,16 +27,19 @@ As the source code for these projects is already being preserved, they will not 
 - [ToneMatrix](https://github.com/Babkock/ToneMatrix) - Programmable drum machine and sequencer for the PSP.
 - [UMD_FileRenamer](https://github.com/BrosMakingSoftware/UMD_FileRenamer) - Application to rename PSP disk images (cso, iso) based on it's UMD properties.
 - [valentine-hbl](https://github.com/173210/valentine-hbl) - Half Byte Loader BETA for PSP.
+- [weeb2psp](https://github.com/tuxlovesyou/weeb2psp) - AVC video converter for PSP.
 - [Zig-psp](https://github.com/zPSP-Dev/Zig-PSP) - A project to bring the Zig Programming Language to the PSP.
 
 ## Demos
 
+- [psp_chicken_demo](https://github.com/remi6397/psp_chicken_demo) - Simple demo of using CHICKEN Scheme for writing Sony PSP homebrew software.
 - [psp-video-player](https://github.com/psplabs/psp-video-player) - A proof of concept demo for generating and compiling expirable, secure, offline videos.
 - [Suicide Barbie](https://github.com/theblacklotus/suicide-barbie) - Suicide Barbie Demo Game for PSP.
 - [the-labyrinth](https://github.com/Yonaba/the-labyrinth) - A small technical raycasting demo written in Lua for PSP.
 
 ## Development
 
+- [Brainfuck-PSP](https://github.com/noche-x/brainfuck-psp) - Brainfuck interpreter for PSP.
 - [Insomnia-ProQuake-Engine](https://github.com/darkduke606/Insomnia-ProQuake-Engine) - ProQuake Engine for PSP.
 - [Kurok](https://github.com/TheMrIron2/kurok) - Kurok Game Engine for PSP.
 - [Lovepsp](https://github.com/slemonide/lovepsp) - Love2D port for PSP.
@@ -54,12 +59,15 @@ As the source code for these projects is already being preserved, they will not 
 - [Atari800 PSP](https://github.com/8bitpsp/atari800) - Atari 800/800XL, 130XE and 5200 Emulators.
 - [Caprice32 PSP](https://github.com/8bitpsp/caprice32) - Amstrad CPC/CPC464 Emulator.
 - [Chip8_PSP](https://github.com/stacksta/chip8_psp) - Chip8 Emulator.
+- [Cinoop](https://github.com/CTurt/Cinoop) - Nintendo Game Boy Emulator.
 - [DaedalusX64](https://github.com/DaedalusX64/daedalus) - Nintendo 64 Emulator.
 - [DeSmuME PSP](https://github.com/themriron2/desmume-psp) - Nintendo DS Emulator.
+- [DeSmuME_PSP_Experimental](https://github.com/Xiro28/desmume_psp_experimental) - Nintendo DS Emulator.
 - [DSonPSP](https://github.com/bielgiroto/DSonPSP) - Nintendo DS Emulator.
 - [FBA4PSPmod](https://github.com/rereprep/FBA4PSPmod) - Final Burn Alpha (Psikyo core) Emulator.
 - [fceupsp](https://github.com/phoe-nix/fceupsp) - Nintendo NES Emulator.
 - [Fuse PSP](https://github.com/8bitpsp/fuse) - Sinclair ZX Spectrum Emulator.
+- [gambatte](https://github.com/wally4000/gambatte) - Nintendo GameBoy / GameBoy Color Emulator.
 - [gpSP](https://github.com/BASLQC/gPSP) - Nintendo GBA Emulator.
 - [gpSP(mirror)](https://github.com/cedricwaltercson/gpsp) - Nintendo GBA Emulator.
 - [Handy PSP](https://github.com/8bitpsp/handy) - Atari Lynx Emulator.
@@ -67,6 +75,7 @@ As the source code for these projects is already being preserved, they will not 
 - [Monkey64](https://github.com/TheMrIron2/Monkey64) - Nintendo 64 Emulator.
 - [MVSPSP](https://github.com/swarzesherz/mvspsp) - SNK NeoGeo MVS Emulator.
 - [Nesterj AoEX r3-mod](https://github.com/rinrin-/NesterJ_AoEX_R3) - Nintendo NES Emulator.
+- [NGPSP](https://github.com/TheElf01/NGPSP) - SNK NeoGeo Pocket / NeoGeo Pocket Color Emulator.
 - [NJEMU](https://github.com/phoe-nix/NJEMU) - CPS1, CPS2, NeoGeo MVS and NeoGeo CDZ(CD) Emulators.
 - [NeoPop PSP](https://github.com/8bitpsp/neopop) - SNK NeoGeo Pocket / NeoGeo Pocket Color Emulator.
 - [NooDS-PSP](https://github.com/Xiro28/NooDS-PSP) - Nintendo DS Emulator.
@@ -81,6 +90,7 @@ As the source code for these projects is already being preserved, they will not 
 - [PX68k](https://github.com/hissorii/px68k) - Sharp X68000 Emulator.
 - [RACE! PSP](https://github.com/8bitpsp/race) - SNK NeoGeo Pocket / NeoGeo Pocket Color Emulator.
 - [SMSPlus PSP](https://github.com/8bitpsp/smsplus) - SEGA MasterSystem / GameGear and SG-1000 Emulators.
+- [SMSPSP](https://github.com/TheElf01/SMSPSP) - SEGA  MasterSystem / GameGear Emulator.
 - [TempGBA4PSP-mod](https://github.com/phoe-nix/TempGBA4PSP-mod) - Nintendo GameBoy Advance Emulator.
 - [Uo NJEMU](https://github.com/173210/mvspsp/releases/tag/r5) - CPS1, CPS2, NeoGeo MVS and NeoGeo CDZ(CD) Emulators.
 - [VICE PSP](https://github.com/8bitpsp/vice) - Commodore 64 Emulator.
@@ -102,6 +112,7 @@ As the source code for these projects is already being preserved, they will not 
 - [Colditz-esacpe](https://github.com/aperture-software/colditz-escape) - Amiga's "Escape From Colditz" ported to PSP.
 - [CSPSP](https://github.com/st1x51/CSPSP_ADQ) - CSPSP on ADQ Engine for PSP.
 - [Chocolate Doom](https://github.com/mwpenny/chocolate-doom-psp) - Doom port for PSP.
+- [doolhof-de-game-psp](https://github.com/robinbouma7/doolhof-de-game-psp) - game for the psp. this is a remake of my javascript game for the psp.
 - [DQuakeplus](https://github.com/st1x51/DQuakePlus) - Just another psp quake engine.
 - [Emblem of Fire](https://github.com/TheMrIron2/Emblem-of-Fire) - Emblem of Fire for PSP.
 - [galaxy-integration-psp](https://github.com/TBemme/galaxy-integration-psp) - PSP platform integration for Galaxy 2.0.
@@ -109,6 +120,8 @@ As the source code for these projects is already being preserved, they will not 
 - [Golden Eye](https://github.com/TheMrIron2/goldeneye-psp) - Golden Eye 007 (N64) for PSP.
 - [Hnefatafl](https://github.com/TheMrIron2/hnefatafl-psp) - Hnefatafl Game for PSP.
 - [Hokuto-no-ken](https://github.com/Yonaba/hokuto-no-ken) - Small old homebrew Lua game written in Lua for PSP.
+- [Halloween-Game](https://github.com/IridescentRose/Halloween-Game) - A Small Horror Game for PSP.
+- [KOF-Original](https://github.com/IridescentRose/KOF-Original) - PSP Awakening Game Jam.
 - [luigi-world](https://github.com/Yonaba/luigi-world) - An old and minimalist platformer game with Luigi written in Lua for PSP.
 - [mario-eater](https://github.com/Yonaba/mario-eater) - Small old homebrew Lua game written in Lua for PSP.
 - [mario-kart](https://github.com/Yonaba/mario-kart) - A small and minimalist Mario Kart homebrew game written in Lua for PSP.
@@ -121,6 +134,7 @@ As the source code for these projects is already being preserved, they will not 
 - [psp-runner](https://github.com/dogo/psp-runner) - Simple PSP game.
 - [Perfect Dark Reloaded](https://github.com/TheMrIron2/Perfect-Dark-Reloaded) - Perfect Dark Realoaded for PSP.
 - [Project Enigma](https://github.com/TheMrIron2/project-enigma) - Project Enigma for PSP.
+- [Project-Raven](https://github.com/IridescentRose/Project-Raven) - Project Raven is a Minecraft implementation in C++ for PSP.
 - [Project-sonymon](https://github.com/fjm-homebrew/project-sonymon) - Project Sonymon game for psp.
 - [PSP-2048](https://github.com/bd4sur/PSP-2048) - Game "2048" on PSP console. PSP console 2048 mini game.
 - [PSPDoom](https://github.com/z2442/PSPDoom) - Doom port for PSP.
@@ -129,6 +143,8 @@ As the source code for these projects is already being preserved, they will not 
 - [PSPMania](https://github.com/mafu9/PSPMania) - This is StepMania 3.9, a famous rhythm game simulator, ported to the PSP.
 - [RALG](https://github.com/florinilie139/RALG) - Really Annoying Level Game for PSP.
 - [Rayman-PSP](https://github.com/fjm-homebrew/rayman-psp) - Rayman engine for the Sony PSP.
+- [SDLPop](https://github.com/z2442/SDLPoP) - An open-source port of Prince of Persia, based on the disassembly of the DOS version for PSP.
+- [Slender-PSP](https://github.com/IridescentRose/Slender-PSP) - Spooky Scary Slenderman.
 - [Spaceboopers](https://github.com/nikp123/spaceboopers) - Spaceboopers Multiplayer Game for PSP.
 - [Spelunky](https://github.com/dbeef/spelunky-psp) - Spelunky Remake for PSP.
 - [Super-mini-halo](https://github.com/JpDeathBlade/Super-Mini-Halo) - A PSP homebrew Mario game with a Halo skin.
@@ -142,9 +158,13 @@ As the source code for these projects is already being preserved, they will not 
 ## Game Engines
 
 - [Aleph One](https://github.com/Aleph-One-Marathon/alephone-psp) - Alephone Game port for PSP.
+- [Celestial-Engine](https://github.com/IridescentRose/Celestial-Engine) - Stardust 2 for PSP.
 - [MegaZeux](https://github.com/AliceLR/megazeux/) - Game Creation System for PSP.
 - [OpenBOR](https://github.com/DCurrent/openbor) - Beast of Rage Multi Game Engine for PSP.
+- [OpenBOR_Plus](https://github.com/whitedragon0000/OpenBOR_PLUS) - Beast of Rage Multi Game Engine for PSP.
 - [OpenLara](https://github.com/XProger/OpenLara/releases/tag/20180524) - Classic Tomb Raider Game for PSP.
 - [Pocket-Game-Maker](https://github.com/History-exe/Pocket-Game-Maker-v0.83)  - PSP AVG game engine.
+- [Shadow-Engine](https://github.com/IridescentRose/Shadow-Engine) - Shadow Engine is a basic game engine designed for PSP.
 - [ScummVM](https://github.com/rsn8887/scummvm/releases/tag/2.1.0git-rsn8887.30) - ScummVM Multi Game Engine for PSP.
+- [Stardust-Engine](https://github.com/IridescentRose/Stardust-Engine) - Unity-like game engine for the PSP.
 - [Super Mario 64 Port](https://github.com/z2442/sm64-port) - Super Mario 64 port for PSP.
