@@ -80,6 +80,7 @@ As the source code for these projects is already being preserved, they will not 
 - [PSPMasterboy](https://github.com/maxbit89/PSPMasterBoy) - GameBoy Emulator for PSP.
 - [PX68k](https://github.com/hissorii/px68k) - Sharp X68000 Emulator.
 - [RACE! PSP](https://github.com/8bitpsp/race) - SNK NeoGeo Pocket / NeoGeo Pocket Color Emulator.
+- [RACE!-theelf_mod](https://github.com/TheFlav/RACE-NGPC-Emulator-PSP) - RACE NGPC emulator modified by "theelf" to run on the PSP.
 - [SMSPlus PSP](https://github.com/8bitpsp/smsplus) - SEGA MasterSystem / GameGear and SG-1000 Emulators.
 - [TempGBA4PSP-mod](https://github.com/phoe-nix/TempGBA4PSP-mod) - Nintendo GameBoy Advance Emulator.
 - [Uo NJEMU](https://github.com/173210/mvspsp/releases/tag/r5) - CPS1, CPS2, NeoGeo MVS and NeoGeo CDZ(CD) Emulators.
@@ -129,6 +130,7 @@ As the source code for these projects is already being preserved, they will not 
 - [PSPMania](https://github.com/mafu9/PSPMania) - This is StepMania 3.9, a famous rhythm game simulator, ported to the PSP.
 - [RALG](https://github.com/florinilie139/RALG) - Really Annoying Level Game for PSP.
 - [Rayman-PSP](https://github.com/fjm-homebrew/rayman-psp) - Rayman engine for the Sony PSP.
+- [sdlpal](https://github.com/OPL3ChipFan/sdlpal) - SDL-based reimplementation of the classic Chinese-language RPG "Xiān jiàn Qí Xiá Zhuàn" (also known as PAL) for PSP.
 - [Spaceboopers](https://github.com/nikp123/spaceboopers) - Spaceboopers Multiplayer Game for PSP.
 - [Spelunky](https://github.com/dbeef/spelunky-psp) - Spelunky Remake for PSP.
 - [Super-mini-halo](https://github.com/JpDeathBlade/Super-Mini-Halo) - A PSP homebrew Mario game with a Halo skin.
